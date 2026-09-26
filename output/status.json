@@ -1,101 +1,100 @@
 {
- "generated_at": "2026-09-26T04:21:09Z",
+ "generated_at": "2026-09-26T11:31:07Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3133,
- "alive": 665,
- "github_ok": 60,
- "final": 665,
+ "candidates": 3100,
+ "alive": 559,
+ "github_ok": 59,
+ "final": 559,
  "by_protocol": {
-  "ss": 162,
-  "vless": 278,
+  "ss": 139,
+  "vmess": 81,
+  "vless": 227,
+  "hysteria2": 91,
   "trojan": 7,
-  "vmess": 99,
-  "hysteria2": 80,
-  "http": 32,
-  "socks5": 5,
+  "http": 12,
   "anytls": 2
  },
  "top_github": [
   {
-   "name": "🇺🇸US-18.205.21.144-0639",
-   "delay": 16
-  },
-  {
-   "name": "🇺🇸US-54.147.191.121-0134",
-   "delay": 24
-  },
-  {
-   "name": "vless-1137271189",
-   "delay": 30
-  },
-  {
-   "name": "🇺🇸 美国 | USA 16",
-   "delay": 30
-  },
-  {
-   "name": "美国 547",
-   "delay": 31
-  },
-  {
-   "name": "🇳🇱 荷兰 | NLD 7",
-   "delay": 32
-  },
-  {
-   "name": "美国 446",
-   "delay": 37
-  },
-  {
-   "name": "美国 655",
-   "delay": 37
-  },
-  {
-   "name": "美国 654",
-   "delay": 38
-  },
-  {
-   "name": "美国 442",
-   "delay": 38
-  },
-  {
-   "name": "巴西 021",
-   "delay": 41
-  },
-  {
-   "name": "美国 705",
-   "delay": 42
-  },
-  {
-   "name": "🇳🇱 荷兰 | NLD 5",
-   "delay": 42
+   "name": "🇺🇸 美国 | USA 9",
+   "delay": 61
   },
   {
    "name": "vmess-1478639975",
-   "delay": 44
+   "delay": 70
   },
   {
-   "name": "巴西 022",
-   "delay": 44
+   "name": "🇺🇸US-37.19.198.236-0126",
+   "delay": 83
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0135",
-   "delay": 45
+   "name": "🇺🇸US-37.19.198.244-0124",
+   "delay": 84
   },
   {
-   "name": "🇸🇬 新加坡 | SGP 3",
-   "delay": 45
+   "name": "vmess-101274507",
+   "delay": 84
   },
   {
-   "name": "美国 637",
-   "delay": 45
+   "name": "🇺🇸US-37.19.198.243-0159",
+   "delay": 85
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0133",
-   "delay": 46
+   "name": "🇺🇸US-37.19.198.160-0125",
+   "delay": 85
   },
   {
-   "name": "美国 634",
-   "delay": 47
+   "name": "vmess-5258777",
+   "delay": 91
+  },
+  {
+   "name": "US - zhuhai.uk 08",
+   "delay": 92
+  },
+  {
+   "name": "🇸🇬 新加坡 | SGP 2",
+   "delay": 109
+  },
+  {
+   "name": "🇺🇸 美国 | USA 15",
+   "delay": 110
+  },
+  {
+   "name": "hysteria2-1122515613",
+   "delay": 110
+  },
+  {
+   "name": "vmess-1451757970",
+   "delay": 111
+  },
+  {
+   "name": "🇺🇸 美国 | USA 5",
+   "delay": 113
+  },
+  {
+   "name": "vless-1503978809",
+   "delay": 114
+  },
+  {
+   "name": "vmess-99558",
+   "delay": 115
+  },
+  {
+   "name": "vmess-2387902",
+   "delay": 118
+  },
+  {
+   "name": "vless-1506337414",
+   "delay": 118
+  },
+  {
+   "name": "vmess-656230757",
+   "delay": 119
+  },
+  {
+   "name": "🇺🇸US-138.199.42.68-0160",
+   "delay": 120
   }
  ]
 }
