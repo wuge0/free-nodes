@@ -1,0 +1,82 @@
+name: harvest
+
+on:
+  schedule:
+    # 每 3 小时跑一次，分钟数错开整点，避开 GitHub Actions 排队高峰
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 缓存 mihomo 二进制
+        uses: actions/cache@v4
+        with:
+          path: /tmp/harvest/mihomo
+          key: mihomo-v1.19.31
+
+      - name: 抓取 + 实测 + 生成
+        run: python harvest.py 2>&1 | tee /tmp/harvest.log
+
+      - name: 汇总
+        if: always()
+        run: |
+          echo "### 本次采集结果" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f output/status.json ]; then
+            cat output/status.json >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: 上传日志
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: harvest-log
+          path: /tmp/harvest.log
+          if-no-files-found: ignore
+
+      - name: 提交结果
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 只有确实产出有效节点才提交，避免把好订阅刷成空的
+          if [ ! -s output/clash.yaml ]; then
+            echo "::warning::output/clash.yaml 为空，跳过提交"
+            exit 0
+          fi
+          N=$(python3 -c "import json;print(json.load(open('output/status.json'))['final'])")
+          G=$(python3 -c "import json;print(json.load(open('output/status.json'))['github_ok'])")
+          if [ "$N" -eq 0 ]; then
+            echo "::warning::本次无活跃节点，跳过提交"
+            exit 0
+          fi
+
+          git add output/
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: refresh nodes — ${N} alive / ${G} github-ok"
+          git push

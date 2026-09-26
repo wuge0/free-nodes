@@ -1,0 +1,20 @@
+# 节点源列表：一行一个 URL，# 开头为注释
+# 支持三种形态：clash yaml（含 proxies:） / 明文 URI 列表 / base64 订阅
+# 单个源失败会自动跳过，不影响整体
+
+# ---- 大源（1000+ 节点）----
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
+https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+
+# ---- 中等源 ----
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
+
+# ---- 小源（补充地域/协议多样性）----
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
+https://raw.githubusercontent.com/wenxig/free-nodes-sub/main/data/sub.txt
+https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/clash.yaml
+https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/base64.txt
