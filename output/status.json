@@ -1,0 +1,101 @@
+{
+ "generated_at": "2026-09-26T04:21:09Z",
+ "sources_ok": 11,
+ "sources_fail": 0,
+ "candidates": 3133,
+ "alive": 665,
+ "github_ok": 60,
+ "final": 665,
+ "by_protocol": {
+  "ss": 162,
+  "vless": 278,
+  "trojan": 7,
+  "vmess": 99,
+  "hysteria2": 80,
+  "http": 32,
+  "socks5": 5,
+  "anytls": 2
+ },
+ "top_github": [
+  {
+   "name": "🇺🇸US-18.205.21.144-0639",
+   "delay": 16
+  },
+  {
+   "name": "🇺🇸US-54.147.191.121-0134",
+   "delay": 24
+  },
+  {
+   "name": "vless-1137271189",
+   "delay": 30
+  },
+  {
+   "name": "🇺🇸 美国 | USA 16",
+   "delay": 30
+  },
+  {
+   "name": "美国 547",
+   "delay": 31
+  },
+  {
+   "name": "🇳🇱 荷兰 | NLD 7",
+   "delay": 32
+  },
+  {
+   "name": "美国 446",
+   "delay": 37
+  },
+  {
+   "name": "美国 655",
+   "delay": 37
+  },
+  {
+   "name": "美国 654",
+   "delay": 38
+  },
+  {
+   "name": "美国 442",
+   "delay": 38
+  },
+  {
+   "name": "巴西 021",
+   "delay": 41
+  },
+  {
+   "name": "美国 705",
+   "delay": 42
+  },
+  {
+   "name": "🇳🇱 荷兰 | NLD 5",
+   "delay": 42
+  },
+  {
+   "name": "vmess-1478639975",
+   "delay": 44
+  },
+  {
+   "name": "巴西 022",
+   "delay": 44
+  },
+  {
+   "name": "🇺🇸US-37.19.198.160-0135",
+   "delay": 45
+  },
+  {
+   "name": "🇸🇬 新加坡 | SGP 3",
+   "delay": 45
+  },
+  {
+   "name": "美国 637",
+   "delay": 45
+  },
+  {
+   "name": "🇺🇸US-37.19.198.236-0133",
+   "delay": 46
+  },
+  {
+   "name": "美国 634",
+   "delay": 47
+  }
+ ]
+}
