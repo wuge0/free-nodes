@@ -1,100 +1,100 @@
 {
- "generated_at": "2026-09-26T11:31:07Z",
+ "generated_at": "2026-09-26T16:28:40Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3100,
- "alive": 559,
+ "candidates": 2541,
+ "alive": 561,
  "github_ok": 59,
- "final": 559,
+ "final": 561,
  "by_protocol": {
-  "ss": 139,
-  "vmess": 81,
-  "vless": 227,
-  "hysteria2": 91,
-  "trojan": 7,
-  "http": 12,
-  "anytls": 2
+  "ss": 132,
+  "vmess": 73,
+  "vless": 258,
+  "hysteria2": 76,
+  "http": 11,
+  "anytls": 5,
+  "trojan": 6
  },
  "top_github": [
   {
-   "name": "🇺🇸 美国 | USA 9",
-   "delay": 61
+   "name": "🇺🇸US-18.205.21.144-0099",
+   "delay": 90
   },
   {
-   "name": "vmess-1478639975",
-   "delay": 70
+   "name": "🇺🇸US-54.204.185.38-0214",
+   "delay": 94
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0126",
-   "delay": 83
+   "name": "🇺🇸US-54.147.191.121-0095",
+   "delay": 102
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0124",
-   "delay": 84
-  },
-  {
-   "name": "vmess-101274507",
-   "delay": 84
-  },
-  {
-   "name": "🇺🇸US-37.19.198.243-0159",
-   "delay": 85
-  },
-  {
-   "name": "🇺🇸US-37.19.198.160-0125",
-   "delay": 85
-  },
-  {
-   "name": "vmess-5258777",
-   "delay": 91
-  },
-  {
-   "name": "US - zhuhai.uk 08",
-   "delay": 92
-  },
-  {
-   "name": "🇸🇬 新加坡 | SGP 2",
-   "delay": 109
-  },
-  {
-   "name": "🇺🇸 美国 | USA 15",
-   "delay": 110
-  },
-  {
-   "name": "hysteria2-1122515613",
-   "delay": 110
-  },
-  {
-   "name": "vmess-1451757970",
-   "delay": 111
-  },
-  {
-   "name": "🇺🇸 美国 | USA 5",
+   "name": "vmess-650629578",
    "delay": 113
   },
   {
-   "name": "vless-1503978809",
+   "name": "🇺🇸US-37.19.198.243-0159",
    "delay": 114
   },
   {
-   "name": "vmess-99558",
+   "name": "🇺🇸US-37.19.198.160-0125",
    "delay": 115
   },
   {
-   "name": "vmess-2387902",
+   "name": "🇺🇸US-37.19.198.236-0126",
+   "delay": 116
+  },
+  {
+   "name": "vmess-16102",
    "delay": 118
   },
   {
-   "name": "vless-1506337414",
-   "delay": 118
-  },
-  {
-   "name": "vmess-656230757",
-   "delay": 119
-  },
-  {
-   "name": "🇺🇸US-138.199.42.68-0160",
+   "name": "US - zhuhai.uk 05",
    "delay": 120
+  },
+  {
+   "name": "🇺🇸US-37.19.198.244-0124",
+   "delay": 121
+  },
+  {
+   "name": "vmess-650629526",
+   "delay": 123
+  },
+  {
+   "name": "vmess-655843941",
+   "delay": 133
+  },
+  {
+   "name": "vless-1137271189",
+   "delay": 135
+  },
+  {
+   "name": "vless-1512044988",
+   "delay": 139
+  },
+  {
+   "name": "vless-1383869361",
+   "delay": 143
+  },
+  {
+   "name": "vmess-653956131",
+   "delay": 146
+  },
+  {
+   "name": "vmess-650629583",
+   "delay": 147
+  },
+  {
+   "name": "vmess-145191",
+   "delay": 147
+  },
+  {
+   "name": "vmess-732298722",
+   "delay": 147
+  },
+  {
+   "name": "vmess-656230645",
+   "delay": 147
   }
  ]
 }
