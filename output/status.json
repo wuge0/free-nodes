@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-09-27T17:02:22Z",
+ "generated_at": "2026-09-27T21:25:34Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3233,
- "alive": 614,
- "github_ok": 60,
- "final": 614,
+ "candidates": 3181,
+ "alive": 647,
+ "github_ok": 58,
+ "final": 647,
  "by_protocol": {
-  "ss": 157,
-  "vmess": 80,
-  "vless": 271,
-  "hysteria2": 68,
-  "http": 28,
-  "trojan": 8,
+  "ss": 151,
+  "vmess": 82,
+  "http": 17,
+  "vless": 305,
+  "hysteria2": 83,
+  "trojan": 5,
   "socks5": 1,
-  "anytls": 1
+  "anytls": 3
  },
  "top_github": [
   {
-   "name": "🇺🇸US-54.204.185.38-0237",
+   "name": "shadowsocks-1541078786",
    "delay": 64
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0095",
+   "name": "vmess-1444974378",
+   "delay": 66
+  },
+  {
+   "name": "vmess-1461170739",
+   "delay": 73
+  },
+  {
+   "name": "vmess-1461170767",
+   "delay": 73
+  },
+  {
+   "name": "US - zhuhai.uk 03",
+   "delay": 75
+  },
+  {
+   "name": "US - zhuhai.uk 07",
+   "delay": 76
+  },
+  {
+   "name": "US - zhuhai.uk 02",
+   "delay": 77
+  },
+  {
+   "name": "US - zhuhai.uk 05",
+   "delay": 77
+  },
+  {
+   "name": "vless-1466680093",
+   "delay": 78
+  },
+  {
+   "name": "US - zhuhai.uk 08",
+   "delay": 78
+  },
+  {
+   "name": "vmess-1444865487",
+   "delay": 80
+  },
+  {
+   "name": "vmess-1444974382",
+   "delay": 81
+  },
+  {
+   "name": "vless-1365956373",
+   "delay": 82
+  },
+  {
+   "name": "US - zhuhai.uk 06",
+   "delay": 82
+  },
+  {
+   "name": "hysteria2-674602384",
    "delay": 84
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0082",
-   "delay": 87
+   "name": "vless-1535594964",
+   "delay": 90
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0050",
-   "delay": 88
-  },
-  {
-   "name": "🇺🇸US-37.19.198.244-0078",
-   "delay": 89
-  },
-  {
-   "name": "🇺🇸US-37.19.198.243-0048",
-   "delay": 92
-  },
-  {
-   "name": "vmess-5258777",
-   "delay": 92
-  },
-  {
-   "name": "vless-1535594969",
-   "delay": 93
-  },
-  {
-   "name": "vless-1525351309",
-   "delay": 94
-  },
-  {
-   "name": "vless-1512044988",
-   "delay": 94
-  },
-  {
-   "name": "vless-1509656110",
-   "delay": 97
-  },
-  {
-   "name": "vmess-101274507",
-   "delay": 98
-  },
-  {
-   "name": "vmess-656063482",
-   "delay": 100
-  },
-  {
-   "name": "vmess-855957131",
+   "name": "vless-1444935430",
    "delay": 101
   },
   {
-   "name": "vmess-655843809",
-   "delay": 102
+   "name": "hysteria2-1532335411",
+   "delay": 103
   },
   {
-   "name": "hysteria2-1120266223",
-   "delay": 104
+   "name": "shadowsocks-468218514",
+   "delay": 109
   },
   {
-   "name": "vless-1513306484",
-   "delay": 111
-  },
-  {
-   "name": "vless-1509183249",
-   "delay": 111
-  },
-  {
-   "name": "vmess-656230758",
-   "delay": 111
-  },
-  {
-   "name": "shadowsocks-1527298845",
-   "delay": 113
+   "name": "🇳🇱 荷兰 | NLD 8",
+   "delay": 112
   }
  ]
 }
