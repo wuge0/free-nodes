@@ -1,100 +1,101 @@
 {
- "generated_at": "2026-09-27T05:23:54Z",
+ "generated_at": "2026-09-27T12:08:43Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2682,
- "alive": 641,
+ "candidates": 2605,
+ "alive": 573,
  "github_ok": 60,
- "final": 641,
+ "final": 573,
  "by_protocol": {
-  "ss": 140,
-  "vmess": 81,
-  "vless": 292,
-  "http": 21,
-  "hysteria2": 95,
-  "trojan": 11,
-  "socks5": 1
+  "ss": 155,
+  "vmess": 70,
+  "vless": 236,
+  "http": 12,
+  "hysteria2": 86,
+  "trojan": 8,
+  "anytls": 4,
+  "socks5": 2
  },
  "top_github": [
   {
-   "name": "🇺🇸US-54.227.186.25-0421",
-   "delay": 31
-  },
-  {
-   "name": "🇺🇸US-18.205.21.144-0099",
-   "delay": 31
+   "name": "🇺🇸US-18.205.21.144-0157",
+   "delay": 13
   },
   {
    "name": "vmess-1454111449",
-   "delay": 32
+   "delay": 17
   },
   {
    "name": "vmess-1440773913",
-   "delay": 33
+   "delay": 17
   },
   {
-   "name": "🇺🇸US-54.204.185.38-0214",
-   "delay": 35
+   "name": "🇺🇸US-54.204.185.38-0237",
+   "delay": 18
   },
   {
-   "name": "🇺🇸 美国 | USA 9",
-   "delay": 43
+   "name": "vless-1531208059",
+   "delay": 25
   },
   {
-   "name": "🇸🇬 新加坡 | SGP 6",
-   "delay": 45
+   "name": "🇺🇸US-54.147.191.121-0158",
+   "delay": 28
   },
   {
-   "name": "🇯🇵 日本 | JPN 4",
-   "delay": 51
+   "name": "vless-1535594969",
+   "delay": 28
   },
   {
    "name": "vless-1527118569",
-   "delay": 53
+   "delay": 35
   },
   {
-   "name": "US - zhuhai.uk 07",
-   "delay": 55
+   "name": "🇺🇸 美国 | USA 19",
+   "delay": 43
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0124",
-   "delay": 57
+   "name": "🇺🇸US-37.19.198.160-0050",
+   "delay": 47
   },
   {
-   "name": "🇺🇸 美国 | USA 5",
-   "delay": 57
+   "name": "🇺🇸US-37.19.198.243-0048",
+   "delay": 48
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0126",
-   "delay": 59
+   "name": "🇺🇸US-198.98.53.130-0095",
+   "delay": 49
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0051",
-   "delay": 62
-  },
-  {
-   "name": "🇺🇸US-37.19.198.243-0159",
-   "delay": 63
-  },
-  {
-   "name": "🇺🇸US-37.19.198.160-0125",
-   "delay": 64
+   "name": "🇺🇸US-37.19.198.236-0082",
+   "delay": 52
   },
   {
    "name": "shadowsocks-1527293845",
-   "delay": 70
+   "delay": 55
   },
   {
-   "name": "vless-683855140",
-   "delay": 83
+   "name": "US - zhuhai.uk",
+   "delay": 62
   },
   {
-   "name": "vmess-676886737",
-   "delay": 88
+   "name": "vless-1531019490",
+   "delay": 64
   },
   {
-   "name": "vless-1506337414",
-   "delay": 92
+   "name": "vmess-655843008",
+   "delay": 64
+  },
+  {
+   "name": "vless-1531019484",
+   "delay": 65
+  },
+  {
+   "name": "US - zhuhai.uk 06",
+   "delay": 67
+  },
+  {
+   "name": "vmess-99558",
+   "delay": 68
   }
  ]
 }
