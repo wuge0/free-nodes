@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-09-27T21:25:34Z",
+ "generated_at": "2026-09-28T05:30:38Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3181,
- "alive": 647,
- "github_ok": 58,
- "final": 647,
+ "candidates": 3283,
+ "alive": 706,
+ "github_ok": 59,
+ "final": 706,
  "by_protocol": {
-  "ss": 151,
-  "vmess": 82,
-  "http": 17,
-  "vless": 305,
-  "hysteria2": 83,
-  "trojan": 5,
-  "socks5": 1,
-  "anytls": 3
+  "hysteria2": 89,
+  "vmess": 84,
+  "vless": 309,
+  "ss": 165,
+  "http": 40,
+  "trojan": 15,
+  "socks5": 2,
+  "anytls": 2
  },
  "top_github": [
   {
-   "name": "shadowsocks-1541078786",
-   "delay": 64
+   "name": "hysteria2-1531622830",
+   "delay": 114
   },
   {
-   "name": "vmess-1444974378",
-   "delay": 66
+   "name": "vmess-1444974392",
+   "delay": 121
   },
   {
-   "name": "vmess-1461170739",
-   "delay": 73
+   "name": "vmess-1440771916",
+   "delay": 125
   },
   {
-   "name": "vmess-1461170767",
-   "delay": 73
+   "name": "vless-655776492",
+   "delay": 136
+  },
+  {
+   "name": "vless-656232790",
+   "delay": 137
+  },
+  {
+   "name": "🇺🇸US-18.205.21.144-0060",
+   "delay": 138
+  },
+  {
+   "name": "vless-700289120",
+   "delay": 138
+  },
+  {
+   "name": "vless-656232082",
+   "delay": 138
+  },
+  {
+   "name": "vless-700289119",
+   "delay": 139
+  },
+  {
+   "name": "vmess-1444974377",
+   "delay": 146
+  },
+  {
+   "name": "vmess-1443522753",
+   "delay": 151
   },
   {
    "name": "US - zhuhai.uk 03",
-   "delay": 75
+   "delay": 153
   },
   {
-   "name": "US - zhuhai.uk 07",
-   "delay": 76
+   "name": "shadowsocks-1551398180",
+   "delay": 156
   },
   {
-   "name": "US - zhuhai.uk 02",
-   "delay": 77
+   "name": "vmess-1444974378",
+   "delay": 157
   },
   {
-   "name": "US - zhuhai.uk 05",
-   "delay": 77
+   "name": "vmess-1454572782",
+   "delay": 159
   },
   {
-   "name": "vless-1466680093",
-   "delay": 78
+   "name": "🇺🇸US-198.98.53.130-0053",
+   "delay": 159
   },
   {
-   "name": "US - zhuhai.uk 08",
-   "delay": 78
+   "name": "🇺🇸US-37.19.198.244-0056",
+   "delay": 161
   },
   {
-   "name": "vmess-1444865487",
-   "delay": 80
+   "name": "vmess-1461170739",
+   "delay": 162
   },
   {
    "name": "vmess-1444974382",
-   "delay": 81
+   "delay": 163
   },
   {
-   "name": "vless-1365956373",
-   "delay": 82
-  },
-  {
-   "name": "US - zhuhai.uk 06",
-   "delay": 82
-  },
-  {
-   "name": "hysteria2-674602384",
-   "delay": 84
-  },
-  {
-   "name": "vless-1535594964",
-   "delay": 90
-  },
-  {
-   "name": "vless-1444935430",
-   "delay": 101
-  },
-  {
-   "name": "hysteria2-1532335411",
-   "delay": 103
-  },
-  {
-   "name": "shadowsocks-468218514",
-   "delay": 109
-  },
-  {
-   "name": "🇳🇱 荷兰 | NLD 8",
-   "delay": 112
+   "name": "vmess-1442009671",
+   "delay": 164
   }
  ]
 }
