@@ -1,77 +1,32 @@
 proxies:
-- name: hysteria2-1531622830
-  password: 099830134df5ac3a04a4b21d39b8c395
-  port: 50160
-  server: 163.192.14.135
+- name: hysteria2-561697888
+  password: dongtaiwang.com
+  port: 44356
+  server: hy2.561891.xyz
   skip-cert-verify: true
   sni: ''
   type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: vmess-1444974392
-  network: raw
-  port: 22324
-  server: 158.51.123.42
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: auto
-  name: vmess-1440771916
-  network: tcp
-  port: 22324
-  server: 158.51.123.42
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-655776492
-  network: tcp
-  port: 23576
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  server: 15.204.97.209
-  servername: fuck.rkn
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-656232790
-  network: tcp
-  port: 23576
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  server: 15.204.97.195
-  servername: fuck.rkn
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- name: 🇺🇸US-18.205.21.144-0060
-  type: ss
-  server: 18.205.21.144
+- name: hysteria2-537797363
+  password: gf1:gfhysteria2024
   port: 443
-  cipher: aes-256-cfb
-  password: amazonskr05
-- client-fingerprint: random
+  server: 66.94.121.46
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: vless-700289120
+  name: vless-1085415089
   network: tcp
-  port: 23576
+  port: 53957
   reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: ''
-  server: 15.204.97.206
-  servername: fuck.rkn
+    public-key: XUHlbk5VH5z4E2wxZBhlpLZ33qevyQgqU7dheRDgoGQ
+    short-id: 44e82fd7b97b14
+  server: 172.235.43.210
+  servername: www.nvidia.com
   tls: true
   type: vless
   udp: true
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  uuid: 7ab29f89-6eef-4171-b232-fc4f580ad31b
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: vless-656232082
@@ -86,15 +41,181 @@ proxies:
   type: vless
   udp: true
   uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- client-fingerprint: random
+- alterId: 0
+  cipher: auto
+  name: vmess-1444189792
+  network: tcp
+  port: 22324
+  server: 169.197.143.116
+  type: vmess
+  udp: true
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: vless-700289119
+  name: vless-1091570115
+  network: tcp#3👝@oneclickvpnkeys
+  port: 53957
+  reality-opts:
+    public-key: XUHlbk5VH5z4E2wxZBhlpLZ33qevyQgqU7dheRDgoGQ
+    short-id: 44e82fd7b97b14
+  server: 172.235.43.210
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7ab29f89-6eef-4171-b232-fc4f580ad31b
+- alterId: 0
+  cipher: none
+  name: vmess-656230814
+  network: tcp
+  port: 22324
+  server: 216.106.185.141
+  type: vmess
+  udp: true
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1089138461
+  network: raw
+  port: 53957
+  reality-opts:
+    public-key: XUHlbk5VH5z4E2wxZBhlpLZ33qevyQgqU7dheRDgoGQ
+    short-id: 44e82fd7b97b14
+  server: 172.235.43.210
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7ab29f89-6eef-4171-b232-fc4f580ad31b
+- name: US - zhuhai.uk
+  type: http
+  server: zebpay.site
+  port: 443
+  tls: true
+  sni: zebpay.site
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1466680093
+  network: tcp
+  port: 43578
+  reality-opts:
+    public-key: c5vigQXEfwPg0fAF6U68xrunhyXzYYfMAvsRQ6Cn2mA
+    short-id: 0123456789abcdef
+  server: 192.3.247.109
+  servername: apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 25a6a9f3-ad9e-45f2-96e1-be21c9d97789
+- name: hysteria2-1531622830
+  password: 099830134df5ac3a04a4b21d39b8c395
+  port: 50160
+  server: 163.192.14.135
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1518612526
+  network: tcp
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+  server: ww13.levikogjgfdd.ir
+  servername: fuck.rkn
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+- alterId: 0
+  cipher: auto
+  name: vmess-1444974378
+  network: raw
+  port: 22324
+  server: 216.152.152.187
+  type: vmess
+  udp: true
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-804333120
   network: tcp
   port: 23576
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
     short-id: ''
+  server: 15.204.97.214
+  servername: fuck.rkn
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+- name: 🇺🇸US-216.152.152.187-0684
+  type: vmess
+  server: khasav.org
+  port: 443
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: khasav.org
+  network: ws
+  ws-opts:
+    path: /linkvws
+    headers:
+      Host: khasav.org
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: vless-700289120
+  network: tcp
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: ''
+  server: 15.204.97.206
+  servername: fuck.rkn
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+- name: 🇺🇸 美国 | USA 10
+  server: vpn-us-006.fastervpn.world
+  port: 443
+  type: hysteria2
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  auth: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  sni: vpn-us-006.fastervpn.world
+  skip-cert-verify: true
+- name: ID - zhuhai.uk 02
+  type: http
+  server: efr-marktplatz.club
+  port: 443
+  username: bnVsbDpudWxs
+  tls: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-656232178
+  network: tcp
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
   server: 15.204.97.198
+  servername: fuck.rkn
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-655776492
+  network: tcp
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+  server: 15.204.97.209
   servername: fuck.rkn
   tls: true
   type: vless
@@ -109,6 +230,167 @@ proxies:
   type: vmess
   udp: true
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- name: 🇺🇸 美国 | USA 8
+  server: codecanyon.net
+  port: 8880
+  type: vless
+  uuid: 692d631b-cff1-4ed4-ba81-f716388fff46
+  tls: false
+  network: ws
+  ws-opts:
+    path: /pyip=ProxyIP.US.CMLiussss.net
+    headers:
+      Host: odd-darkness-57ce.334-a29.workers.dev
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: vmess-1440771916
+  network: tcp
+  port: 22324
+  server: 158.51.123.42
+  type: vmess
+  udp: true
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1518612511
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU
+    short-id: 35cd899f8de04801
+  server: 23.95.222.127
+  servername: www.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 352ff568-f971-4613-bf48-92997a5d44ed
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1531285795
+  network: raw
+  port: 8443
+  reality-opts:
+    public-key: ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU
+    short-id: 35cd899f8de04801
+  server: 23.95.222.127
+  servername: www.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 352ff568-f971-4613-bf48-92997a5d44ed
+- alterId: 0
+  cipher: none
+  name: vmess-656230694
+  network: tcp
+  port: 18000
+  server: 84.17.41.2
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-944037331
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0
+    short-id: 4477382ff6d3d41c
+  server: 51.81.203.63
+  servername: www.icloud.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: cb2dbb6a-a1ea-4023-9ace-6466cee57241
+- name: hysteria2-474576739
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: hy2.123266.xyz
+  skip-cert-verify: true
+  sni: hy2.123266.xyz
+  type: hysteria2
+- name: hysteria2-10923
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
+  skip-cert-verify: false
+  sni: hy2.123266.xyz
+  type: hysteria2
+- name: 🇨🇦CA-108.181.118.10-0099
+  type: ss
+  server: 108.181.118.10
+  port: 8388
+  cipher: chacha20-ietf-poly1305
+  password: G5p6ww4o67HB
+- name: 🇺🇸US-108.181.0.177-0108
+  type: ss
+  server: 108.181.0.177
+  port: 8388
+  cipher: chacha20-ietf-poly1305
+  password: G5p6ww4o67HB
+- cipher: rc4-md5
+  name: shadowsocks-468218514
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 107.151.182.197
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-721738331
+  network: tcp
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: ''
+  server: 15.204.97.197
+  servername: fuck.rkn
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+- alterId: 0
+  cipher: auto
+  name: vmess-2387876
+  network: tcp
+  port: 22324
+  server: 216.106.185.141
+  type: vmess
+  udp: true
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- alterId: 0
+  cipher: auto
+  name: vmess-23957915
+  network: raw
+  port: 22324
+  server: 216.106.185.141
+  type: vmess
+  udp: true
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- name: US - zhuhai.uk 02
+  type: http
+  server: voteshirleysew.club
+  port: 443
+  username: 'null'
+  password: 'null'
+  tls: true
+  skip-cert-verify: true
+- alterId: 0
+  cipher: auto
+  name: vmess-485686931
+  network: tcp
+  port: 18000
+  server: 84.17.41.2
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- cipher: rc4-md5
+  name: shadowsocks-468218487
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 138.199.43.159
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: vmess-1443522753
@@ -118,56 +400,12 @@ proxies:
   type: vmess
   udp: true
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- name: US - zhuhai.uk 03
-  type: http
-  server: 138.199.35.212
-  port: 9002
-  tls: true
-  sni: 138.199.35.212
-  skip-cert-verify: true
-- cipher: aes-256-cfb
-  name: shadowsocks-1551398180
-  password: amazonskr05
-  port: 443
-  server: 3.95.209.183
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
-  name: vmess-1444974378
+  name: vmess-1444974392
   network: raw
   port: 22324
-  server: 216.152.152.187
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: auto
-  name: vmess-1454572782
-  network: tcp
-  port: 22324
-  server: 216.152.152.187
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- name: 🇺🇸US-198.98.53.130-0053
-  type: ss
-  server: 198.98.53.130
-  port: 443
-  cipher: chacha20-ietf-poly1305
-  password: eDfN7SODQceIOmIAbtJJtK
-- name: 🇺🇸US-37.19.198.244-0056
-  type: ss
-  server: 37.19.198.244
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- alterId: 0
-  cipher: none
-  name: vmess-1461170739
-  network: tcp
-  port: 22324
-  server: 167.17.68.89
+  server: 158.51.123.42
   type: vmess
   udp: true
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
@@ -180,9 +418,107 @@ proxies:
   type: vmess
   udp: true
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- name: 🇺🇸US-156.146.38.168-0087
+  type: ss
+  server: 156.146.38.168
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-156.146.38.169-0107
+  type: ss
+  server: 156.146.38.169
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1518323798
+  network: raw
+  port: 30556
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  server: 137.175.82.40
+  servername: www.lovelive-anime.jp
+  tls: true
+  type: vless
+  udp: true
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: vless-1497605082
+  network: tcp
+  port: 30556
+  reality-opts:
+    public-key: EcmNQqZxyW4GCEQF-7nH54w3qgBkLzsfqFSgafGjB0E
+    short-id: d082f567
+  server: 137.175.82.40
+  servername: www.lovelive-anime.jp
+  tls: true
+  type: vless
+  udp: true
+  uuid: 949d278e-6d98-4014-84e9-59f1c6c93e0e
+- name: 🇺🇸US-156.146.38.167-0093
+  type: ss
+  server: 156.146.38.167
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
 - alterId: 0
   cipher: auto
-  name: vmess-1442009671
+  name: vmess-712805967
+  network: raw
+  port: 18000
+  server: 84.17.41.2
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: hysteria2-1529329421
+  password: RN_3f80eeb4bbd0f13f
+  port: 443
+  server: 192.255.128.123
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+- alterId: 0
+  cipher: auto
+  name: vmess-1176391252
+  network: tcp
+  port: 18000
+  server: 169.197.142.22
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- cipher: rc4-md5
+  name: shadowsocks-27291
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 79.110.53.169
+  type: ss
+  udp: true
+- name: 🇨🇦CA-149.22.95.183-0125
+  type: ss
+  server: 149.22.95.183
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: trojan-1551127543
+  password: OnHLrkVqZVtZyulTwC4bHrIbW7GyUDttKVNGEYVR12Y=
+  port: 443
+  server: 192.236.151.43
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- name: 🇺🇸US-156.146.38.170-0069
+  type: ss
+  server: 156.146.38.170
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- alterId: 0
+  cipher: auto
+  name: vmess-1440773911
   network: tcp
   port: 22324
   server: 167.88.62.124
@@ -191,218 +527,18 @@ proxies:
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alterId: 0
   cipher: auto
-  name: vmess-1444974385
+  name: vmess-1451345306
   network: raw
   port: 22324
-  server: 167.88.63.59
+  server: 167.88.62.124
   type: vmess
   udp: true
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- name: 🇺🇸US-37.19.198.243-0057
-  type: ss
-  server: 37.19.198.243
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-37.19.198.160-0055
-  type: ss
-  server: 37.19.198.160
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.167-0093
-  type: ss
-  server: 156.146.38.167
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-37.19.198.236-0058
-  type: ss
-  server: 37.19.198.236
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.170-0069
-  type: ss
-  server: 156.146.38.170
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.168-0087
-  type: ss
-  server: 156.146.38.168
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-216.105.168.18-0164
-  type: ss
-  server: 216.105.168.18
-  port: 443
-  cipher: chacha20-ietf-poly1305
-  password: hCCWOcIsK5wrFz4OX70rWf
-- name: 🇺🇸US-156.146.38.169-0107
-  type: ss
-  server: 156.146.38.169
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- alterId: 0
-  cipher: auto
-  name: vmess-1551126382
-  network: tcp
-  port: 22324
-  server: 198.57.27.190
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- name: 🇺🇸 美国 | USA 10
-  server: 104.21.70.21
-  port: 8080
-  type: vless
-  uuid: 93fa8bdb-9cca-4a3e-8355-b7c12e4f595e
-  tls: false
-  servername: fornewiran.ade-1000.workers.dev
-  network: ws
-  ws-opts:
-    path: /vl/yLWNcuUuw1jlJpkDhGy?ed=2560
-    headers:
-      Host: fornewiran.ade-1000.workers.dev
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: vmess-655843809
-  network: tcp
-  port: 18000
-  server: 134.195.196.211
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- cipher: aes-128-gcm
-  name: shadowsocks-1521110532
-  password: 50ce2ac177d8d8cdad6b4a68739e2ea0
-  port: 13627
-  server: 66.23.202.54
-  type: ss
-  udp: true
-- name: 🇺🇸US-108.181.0.177-0108
-  type: ss
-  server: 108.181.0.177
+- cipher: chacha20-ietf-poly1305
+  name: shadowsocks-415243975
+  password: qB2Cv9VIlujj
   port: 8388
-  cipher: chacha20-ietf-poly1305
-  password: G5p6ww4o67HB
-- name: 🇺🇸US-15.204.247.206-0153
-  type: ss
-  server: 15.204.247.206
-  port: 4444
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-- name: hysteria2-180178213
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: 155.248.209.237
-  skip-cert-verify: true
-  sni: 155.248.209.237
-  type: hysteria2
-- alterId: 0
-  cipher: none
-  name: vmess-1453597051
-  network: tcp
-  port: 22324
-  server: 167.88.63.59
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- name: 美国 762
-  type: vless
-  network: ws
-  server: 172.64.154.211
-  port: 443
-  uuid: 8ccb3a94-9e3c-45d0-a280-850faea6bbff
-  servername: fdjl8sdmc774ru70b3a45lv4w8.akbar1sale6.workers.dev
-  skip-cert-verify: false
-  tls: true
-  udp: true
-  tfo: false
-  client-fingerprint: chrome
-  ws-opts:
-    headers:
-      Host: fdjl8sdmc774ru70b3a45lv4w8.akbar1sale6.workers.dev
-    path: /vl/EpnESUGGdoM40CHmsDT?ed=2560
-- name: 美国 444
-  type: vless
-  network: ws
-  server: 172.67.148.180
-  port: 443
-  uuid: 02e6ad71-7f85-4c3a-aac7-6171762bce87
-  servername: summer-field-3c5b.fsdfsddf.workers.dev
-  skip-cert-verify: false
-  tls: true
-  udp: true
-  tfo: false
-  ws-opts:
-    headers:
-      Host: summer-field-3c5b.fsdfsddf.workers.dev
-    path: /eyJqdW5rIjoia2N4eldGd0p6NVY1V3hrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed
-- name: 🇺🇸 美国 | USA 11
-  server: 172.64.229.170
-  port: 2086
-  type: vless
-  uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
-  tls: false
-  network: ws
-  ws-opts:
-    path: /?ed=2560security=tls
-    headers:
-      Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
-  udp: true
-- cipher: rc4-md5
-  name: shadowsocks-468218514
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 107.151.182.197
-  type: ss
-  udp: true
-- name: hysteria2-650667501
-  password: gf1:gfhysteria2024
-  port: 443
-  server: 66.94.121.46
-  skip-cert-verify: true
-  sni: 66.94.121.46
-  type: hysteria2
-- name: 🇨🇦CA-108.181.118.10-0099
-  type: ss
-  server: 108.181.118.10
-  port: 8388
-  cipher: chacha20-ietf-poly1305
-  password: G5p6ww4o67HB
-- name: 美国 662
-  type: vless
-  network: ws
-  server: 104.21.31.137
-  port: 443
-  uuid: 59c70620-d2f3-4255-9d6f-f4c5103d64ce
-  servername: 59fssibe-sddrrs3qw83qqzz0h1nt-o.q7qwsxitb6byi5nmta4naalz.workers.dev
-  skip-cert-verify: false
-  tls: true
-  udp: true
-  tfo: false
-  client-fingerprint: chrome
-  ws-opts:
-    headers:
-      Host: 59fssibe-sddrrs3qw83qqzz0h1nt-o.q7qwsxitb6byi5nmta4naalz.workers.dev
-    path: /vl/FpYFoMlg8sRpgV7SSaOaRYa3fagqGu?ed
-- cipher: aes-128-gcm
-  name: shadowsocks-1541078785
-  password: 042fcab1108c2f8c5c08efbed4a16cfa
-  port: 11735
-  server: 103.214.109.42
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: shadowsocks-1541078786
-  password: 62dd75ba944947d4ca983cf1679b3797
-  port: 15243
-  server: 173.234.25.93
+  server: 23.150.248.20
   type: ss
   udp: true
 - name: 🇺🇸US-138.199.42.68-0062
@@ -411,96 +547,12 @@ proxies:
   port: 8080
   cipher: rc4-md5
   password: 14fFPrbezE3HDZzsMOr6
-- alterId: 0
-  cipher: auto
-  name: vmess-485686937
-  network: tcp
-  port: 18000
-  server: 38.110.1.246
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: auto
-  name: vmess-2387893
-  network: tcp
-  port: 18000
-  server: 38.91.107.49
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
 - name: 🇺🇸US-173.244.56.6-0121
   type: ss
   server: 173.244.56.6
   port: 443
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇺🇸US-140.82.63.79-0054
-  type: ss
-  server: 140.82.63.79
-  port: 8388
-  cipher: chacha20-ietf-poly1305
-  password: ZoZtfPOyVvmKARUN
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-656231728
-  network: tcp
-  port: 23576
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  server: 15.204.97.214
-  servername: fuck.rkn
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- alterId: 0
-  cipher: auto
-  name: vmess-1454557793
-  network: tcp
-  port: 22324
-  server: 169.197.143.116
-  type: vmess
-  udp: true
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: none
-  name: vmess-656231637
-  network: tcp
-  port: 18000
-  server: 38.91.107.49
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- cipher: chacha20-ietf-poly1305
-  name: shadowsocks-415242973
-  password: FD3rCuOsxOay
-  port: 8388
-  server: 15.235.75.71
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  name: shadowsocks-27291
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 79.110.53.169
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: shadowsocks-822765419
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 51.222.155.32
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: shadowsocks-1415925706
-  password: eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH
-  port: 9443
-  server: 185.156.47.97
-  type: ss
-  udp: true
 - name: 🇺🇸US-173.244.56.9-0123
   type: ss
   server: 173.244.56.9
@@ -512,64 +564,64 @@ proxy-groups:
   type: select
   proxies:
   - ♻️ 自动选择
-  - hysteria2-1531622830
-  - vmess-1444974392
-  - vmess-1440771916
-  - vless-655776492
-  - vless-656232790
-  - 🇺🇸US-18.205.21.144-0060
-  - vless-700289120
+  - hysteria2-561697888
+  - hysteria2-537797363
+  - vless-1085415089
   - vless-656232082
-  - vless-700289119
-  - vmess-1444974377
-  - vmess-1443522753
-  - US - zhuhai.uk 03
-  - shadowsocks-1551398180
+  - vmess-1444189792
+  - vless-1091570115
+  - vmess-656230814
+  - vless-1089138461
+  - US - zhuhai.uk
+  - vless-1466680093
+  - hysteria2-1531622830
+  - vless-1518612526
   - vmess-1444974378
-  - vmess-1454572782
-  - 🇺🇸US-198.98.53.130-0053
-  - 🇺🇸US-37.19.198.244-0056
-  - vmess-1461170739
-  - vmess-1444974382
-  - vmess-1442009671
-  - vmess-1444974385
-  - 🇺🇸US-37.19.198.243-0057
-  - 🇺🇸US-37.19.198.160-0055
-  - 🇺🇸US-156.146.38.167-0093
-  - 🇺🇸US-37.19.198.236-0058
-  - 🇺🇸US-156.146.38.170-0069
-  - 🇺🇸US-156.146.38.168-0087
-  - 🇺🇸US-216.105.168.18-0164
-  - 🇺🇸US-156.146.38.169-0107
-  - vmess-1551126382
+  - vless-804333120
+  - 🇺🇸US-216.152.152.187-0684
+  - vless-700289120
   - 🇺🇸 美国 | USA 10
-  - vmess-655843809
-  - shadowsocks-1521110532
-  - 🇺🇸US-108.181.0.177-0108
-  - 🇺🇸US-15.204.247.206-0153
-  - hysteria2-180178213
-  - vmess-1453597051
-  - 美国 762
-  - 美国 444
-  - 🇺🇸 美国 | USA 11
-  - shadowsocks-468218514
-  - hysteria2-650667501
+  - ID - zhuhai.uk 02
+  - vless-656232178
+  - vless-655776492
+  - vmess-1444974377
+  - 🇺🇸 美国 | USA 8
+  - vmess-1440771916
+  - vless-1518612511
+  - vless-1531285795
+  - vmess-656230694
+  - vless-944037331
+  - hysteria2-474576739
+  - hysteria2-10923
   - 🇨🇦CA-108.181.118.10-0099
-  - 美国 662
-  - shadowsocks-1541078785
-  - shadowsocks-1541078786
-  - 🇺🇸US-138.199.42.68-0062
-  - vmess-485686937
-  - vmess-2387893
-  - 🇺🇸US-173.244.56.6-0121
-  - 🇺🇸US-140.82.63.79-0054
-  - vless-656231728
-  - vmess-1454557793
-  - vmess-656231637
-  - shadowsocks-415242973
+  - 🇺🇸US-108.181.0.177-0108
+  - shadowsocks-468218514
+  - vless-721738331
+  - vmess-2387876
+  - vmess-23957915
+  - US - zhuhai.uk 02
+  - vmess-485686931
+  - shadowsocks-468218487
+  - vmess-1443522753
+  - vmess-1444974392
+  - vmess-1444974382
+  - 🇺🇸US-156.146.38.168-0087
+  - 🇺🇸US-156.146.38.169-0107
+  - vless-1518323798
+  - vless-1497605082
+  - 🇺🇸US-156.146.38.167-0093
+  - vmess-712805967
+  - hysteria2-1529329421
+  - vmess-1176391252
   - shadowsocks-27291
-  - shadowsocks-822765419
-  - shadowsocks-1415925706
+  - 🇨🇦CA-149.22.95.183-0125
+  - trojan-1551127543
+  - 🇺🇸US-156.146.38.170-0069
+  - vmess-1440773911
+  - vmess-1451345306
+  - shadowsocks-415243975
+  - 🇺🇸US-138.199.42.68-0062
+  - 🇺🇸US-173.244.56.6-0121
   - 🇺🇸US-173.244.56.9-0123
 - name: ♻️ 自动选择
   type: url-test
@@ -577,64 +629,64 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-  - hysteria2-1531622830
-  - vmess-1444974392
-  - vmess-1440771916
-  - vless-655776492
-  - vless-656232790
-  - 🇺🇸US-18.205.21.144-0060
-  - vless-700289120
+  - hysteria2-561697888
+  - hysteria2-537797363
+  - vless-1085415089
   - vless-656232082
-  - vless-700289119
-  - vmess-1444974377
-  - vmess-1443522753
-  - US - zhuhai.uk 03
-  - shadowsocks-1551398180
+  - vmess-1444189792
+  - vless-1091570115
+  - vmess-656230814
+  - vless-1089138461
+  - US - zhuhai.uk
+  - vless-1466680093
+  - hysteria2-1531622830
+  - vless-1518612526
   - vmess-1444974378
-  - vmess-1454572782
-  - 🇺🇸US-198.98.53.130-0053
-  - 🇺🇸US-37.19.198.244-0056
-  - vmess-1461170739
-  - vmess-1444974382
-  - vmess-1442009671
-  - vmess-1444974385
-  - 🇺🇸US-37.19.198.243-0057
-  - 🇺🇸US-37.19.198.160-0055
-  - 🇺🇸US-156.146.38.167-0093
-  - 🇺🇸US-37.19.198.236-0058
-  - 🇺🇸US-156.146.38.170-0069
-  - 🇺🇸US-156.146.38.168-0087
-  - 🇺🇸US-216.105.168.18-0164
-  - 🇺🇸US-156.146.38.169-0107
-  - vmess-1551126382
+  - vless-804333120
+  - 🇺🇸US-216.152.152.187-0684
+  - vless-700289120
   - 🇺🇸 美国 | USA 10
-  - vmess-655843809
-  - shadowsocks-1521110532
-  - 🇺🇸US-108.181.0.177-0108
-  - 🇺🇸US-15.204.247.206-0153
-  - hysteria2-180178213
-  - vmess-1453597051
-  - 美国 762
-  - 美国 444
-  - 🇺🇸 美国 | USA 11
-  - shadowsocks-468218514
-  - hysteria2-650667501
+  - ID - zhuhai.uk 02
+  - vless-656232178
+  - vless-655776492
+  - vmess-1444974377
+  - 🇺🇸 美国 | USA 8
+  - vmess-1440771916
+  - vless-1518612511
+  - vless-1531285795
+  - vmess-656230694
+  - vless-944037331
+  - hysteria2-474576739
+  - hysteria2-10923
   - 🇨🇦CA-108.181.118.10-0099
-  - 美国 662
-  - shadowsocks-1541078785
-  - shadowsocks-1541078786
-  - 🇺🇸US-138.199.42.68-0062
-  - vmess-485686937
-  - vmess-2387893
-  - 🇺🇸US-173.244.56.6-0121
-  - 🇺🇸US-140.82.63.79-0054
-  - vless-656231728
-  - vmess-1454557793
-  - vmess-656231637
-  - shadowsocks-415242973
+  - 🇺🇸US-108.181.0.177-0108
+  - shadowsocks-468218514
+  - vless-721738331
+  - vmess-2387876
+  - vmess-23957915
+  - US - zhuhai.uk 02
+  - vmess-485686931
+  - shadowsocks-468218487
+  - vmess-1443522753
+  - vmess-1444974392
+  - vmess-1444974382
+  - 🇺🇸US-156.146.38.168-0087
+  - 🇺🇸US-156.146.38.169-0107
+  - vless-1518323798
+  - vless-1497605082
+  - 🇺🇸US-156.146.38.167-0093
+  - vmess-712805967
+  - hysteria2-1529329421
+  - vmess-1176391252
   - shadowsocks-27291
-  - shadowsocks-822765419
-  - shadowsocks-1415925706
+  - 🇨🇦CA-149.22.95.183-0125
+  - trojan-1551127543
+  - 🇺🇸US-156.146.38.170-0069
+  - vmess-1440773911
+  - vmess-1451345306
+  - shadowsocks-415243975
+  - 🇺🇸US-138.199.42.68-0062
+  - 🇺🇸US-173.244.56.6-0121
   - 🇺🇸US-173.244.56.9-0123
 rules:
 - GEOIP,CN,DIRECT
