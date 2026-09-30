@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-09-30T05:38:39Z",
+ "generated_at": "2026-09-30T12:41:39Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2654,
- "alive": 570,
+ "candidates": 2652,
+ "alive": 571,
  "github_ok": 60,
- "final": 570,
+ "final": 571,
  "by_protocol": {
-  "vmess": 82,
-  "ss": 173,
-  "vless": 191,
-  "http": 16,
-  "hysteria2": 92,
-  "trojan": 6,
-  "anytls": 8,
-  "hysteria": 2
+  "ss": 159,
+  "vmess": 79,
+  "vless": 196,
+  "http": 38,
+  "hysteria2": 77,
+  "trojan": 10,
+  "anytls": 11,
+  "socks5": 1
  },
  "top_github": [
   {
-   "name": "vmess-1548367571",
-   "delay": 101
+   "name": "shadowsocks-1551398181",
+   "delay": 18
   },
   {
-   "name": "🇺🇸US-18.205.21.144-0163",
-   "delay": 104
+   "name": "vmess-1567187489",
+   "delay": 20
   },
   {
-   "name": "🇺🇸US-54.234.217.115-0431",
-   "delay": 110
+   "name": "🇺🇸US-18.205.21.144-0111",
+   "delay": 23
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0032",
-   "delay": 117
+   "name": "vmess-1559656330",
+   "delay": 26
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0037",
-   "delay": 118
+   "name": "🇺🇸US-37.19.198.243-0109",
+   "delay": 44
   },
   {
-   "name": "🇺🇸US-54.90.169.61-0366",
-   "delay": 123
+   "name": "US - zhuhai.uk 04 #1",
+   "delay": 44
   },
   {
-   "name": "vmess-704660103",
-   "delay": 125
+   "name": "🇺🇸US-37.19.198.244-0108",
+   "delay": 48
+  },
+  {
+   "name": "🇺🇸US-198.98.53.130-0065",
+   "delay": 48
+  },
+  {
+   "name": "🇺🇸US-37.19.198.160-0103",
+   "delay": 49
+  },
+  {
+   "name": "shadowsocks-1588621192",
+   "delay": 50
+  },
+  {
+   "name": "🇺🇸US-37.19.198.236-0110",
+   "delay": 51
+  },
+  {
+   "name": "vmess-5258777",
+   "delay": 56
+  },
+  {
+   "name": "vmess-650451255",
+   "delay": 59
+  },
+  {
+   "name": "🇸🇬 新加坡 | SGP 7",
+   "delay": 62
+  },
+  {
+   "name": "vless-700086903",
+   "delay": 64
+  },
+  {
+   "name": "vless-1058822113",
+   "delay": 66
+  },
+  {
+   "name": "vless-1544881666",
+   "delay": 66
   },
   {
    "name": "vmess-656060469",
-   "delay": 126
+   "delay": 67
   },
   {
-   "name": "vmess-655843008",
-   "delay": 127
+   "name": "🇺🇸US-15.204.247.206-0136",
+   "delay": 71
   },
   {
-   "name": "vless-1398765507",
-   "delay": 133
-  },
-  {
-   "name": "🇺🇸US-37.19.198.244-0033",
-   "delay": 135
-  },
-  {
-   "name": "vmess-712822000",
-   "delay": 137
-  },
-  {
-   "name": "vmess-1451757970",
-   "delay": 138
-  },
-  {
-   "name": "vmess-1560533900",
-   "delay": 138
-  },
-  {
-   "name": "vmess-1454111449",
-   "delay": 140
-  },
-  {
-   "name": "shadowsocks-1574303180",
-   "delay": 141
-  },
-  {
-   "name": "vmess-1451343602",
-   "delay": 149
-  },
-  {
-   "name": "vmess-1440773913",
-   "delay": 149
-  },
-  {
-   "name": "🇳🇱 荷兰 | NLD 4",
-   "delay": 157
-  },
-  {
-   "name": "vmess-1478639975",
-   "delay": 157
+   "name": "🇨🇦CA - udptoos.com #2",
+   "delay": 81
   }
  ]
 }
