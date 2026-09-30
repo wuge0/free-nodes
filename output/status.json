@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-09-30T12:41:39Z",
+ "generated_at": "2026-09-30T20:06:07Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2652,
- "alive": 571,
+ "candidates": 3464,
+ "alive": 607,
  "github_ok": 60,
- "final": 571,
+ "final": 607,
  "by_protocol": {
-  "ss": 159,
-  "vmess": 79,
-  "vless": 196,
-  "http": 38,
-  "hysteria2": 77,
-  "trojan": 10,
-  "anytls": 11,
+  "ss": 164,
+  "vmess": 85,
+  "hysteria2": 72,
+  "http": 40,
+  "vless": 222,
+  "trojan": 13,
+  "anytls": 10,
   "socks5": 1
  },
  "top_github": [
   {
    "name": "shadowsocks-1551398181",
-   "delay": 18
+   "delay": 99
   },
   {
-   "name": "vmess-1567187489",
-   "delay": 20
+   "name": "shadowsocks-1561296758",
+   "delay": 99
   },
   {
-   "name": "🇺🇸US-18.205.21.144-0111",
-   "delay": 23
+   "name": "shadowsocks-1574303180",
+   "delay": 103
   },
   {
-   "name": "vmess-1559656330",
-   "delay": 26
+   "name": "shadowsocks-1575966264",
+   "delay": 105
   },
   {
    "name": "🇺🇸US-37.19.198.243-0109",
-   "delay": 44
-  },
-  {
-   "name": "US - zhuhai.uk 04 #1",
-   "delay": 44
-  },
-  {
-   "name": "🇺🇸US-37.19.198.244-0108",
-   "delay": 48
-  },
-  {
-   "name": "🇺🇸US-198.98.53.130-0065",
-   "delay": 48
+   "delay": 114
   },
   {
    "name": "🇺🇸US-37.19.198.160-0103",
-   "delay": 49
-  },
-  {
-   "name": "shadowsocks-1588621192",
-   "delay": 50
-  },
-  {
-   "name": "🇺🇸US-37.19.198.236-0110",
-   "delay": 51
+   "delay": 114
   },
   {
    "name": "vmess-5258777",
-   "delay": 56
+   "delay": 119
   },
   {
-   "name": "vmess-650451255",
-   "delay": 59
+   "name": "vmess-1548367571",
+   "delay": 120
   },
   {
-   "name": "🇸🇬 新加坡 | SGP 7",
-   "delay": 62
+   "name": "🇺🇸US-37.19.198.236-0110",
+   "delay": 124
   },
   {
-   "name": "vless-700086903",
-   "delay": 64
+   "name": "vmess-704660103",
+   "delay": 124
   },
   {
-   "name": "vless-1058822113",
-   "delay": 66
+   "name": "vmess-1560533900",
+   "delay": 125
   },
   {
-   "name": "vless-1544881666",
-   "delay": 66
+   "name": "hysteria2-1308903957",
+   "delay": 128
   },
   {
-   "name": "vmess-656060469",
-   "delay": 67
+   "name": "vmess-48649242",
+   "delay": 138
   },
   {
-   "name": "🇺🇸US-15.204.247.206-0136",
-   "delay": 71
+   "name": "shadowsocks-1588621192",
+   "delay": 138
   },
   {
-   "name": "🇨🇦CA - udptoos.com #2",
-   "delay": 81
+   "name": "vmess-1442009669",
+   "delay": 140
+  },
+  {
+   "name": "vmess-1562896856",
+   "delay": 145
+  },
+  {
+   "name": "vmess-1444974385",
+   "delay": 150
+  },
+  {
+   "name": "vmess-1572886539",
+   "delay": 150
+  },
+  {
+   "name": "vmess-704660105",
+   "delay": 151
+  },
+  {
+   "name": "shadowsocks-1575947162",
+   "delay": 161
   }
  ]
 }
