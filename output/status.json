@@ -1,100 +1,99 @@
 {
- "generated_at": "2026-09-30T20:06:07Z",
+ "generated_at": "2026-10-01T10:14:29Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3464,
- "alive": 607,
+ "candidates": 3458,
+ "alive": 604,
  "github_ok": 60,
- "final": 607,
+ "final": 604,
  "by_protocol": {
-  "ss": 164,
-  "vmess": 85,
-  "hysteria2": 72,
-  "http": 40,
-  "vless": 222,
-  "trojan": 13,
-  "anytls": 10,
-  "socks5": 1
+  "ss": 163,
+  "vmess": 99,
+  "hysteria2": 74,
+  "vless": 225,
+  "http": 12,
+  "trojan": 20,
+  "anytls": 11
  },
  "top_github": [
   {
-   "name": "shadowsocks-1551398181",
-   "delay": 99
+   "name": "🇺🇸US-18.205.21.144-0067",
+   "delay": 83
   },
   {
-   "name": "shadowsocks-1561296758",
-   "delay": 99
+   "name": "shadowsocks-1602687011",
+   "delay": 84
   },
   {
-   "name": "shadowsocks-1574303180",
-   "delay": 103
+   "name": "🇺🇸US-198.98.53.130-0061",
+   "delay": 101
   },
   {
-   "name": "shadowsocks-1575966264",
-   "delay": 105
-  },
-  {
-   "name": "🇺🇸US-37.19.198.243-0109",
+   "name": "🇺🇸US-37.19.198.160-0068",
    "delay": 114
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0103",
+   "name": "vmess-1478639975",
    "delay": 114
   },
   {
-   "name": "vmess-5258777",
-   "delay": 119
-  },
-  {
-   "name": "vmess-1548367571",
-   "delay": 120
-  },
-  {
-   "name": "🇺🇸US-37.19.198.236-0110",
-   "delay": 124
-  },
-  {
-   "name": "vmess-704660103",
-   "delay": 124
-  },
-  {
-   "name": "vmess-1560533900",
-   "delay": 125
+   "name": "🇺🇸US-37.19.198.236-0063",
+   "delay": 117
   },
   {
    "name": "hysteria2-1308903957",
-   "delay": 128
+   "delay": 119
   },
   {
-   "name": "vmess-48649242",
-   "delay": 138
+   "name": "vmess-1549315724",
+   "delay": 124
   },
   {
-   "name": "shadowsocks-1588621192",
-   "delay": 138
+   "name": "🇺🇸US-37.19.198.243-0069",
+   "delay": 125
   },
   {
-   "name": "vmess-1442009669",
-   "delay": 140
+   "name": "🇺🇸US-37.19.198.244-0065",
+   "delay": 127
   },
   {
-   "name": "vmess-1562896856",
+   "name": "vmess-650451561",
+   "delay": 133
+  },
+  {
+   "name": "vmess-1551126382",
+   "delay": 134
+  },
+  {
+   "name": "shadowsocks-1596432404",
+   "delay": 136
+  },
+  {
+   "name": "vless-1592758659",
    "delay": 145
   },
   {
-   "name": "vmess-1444974385",
-   "delay": 150
+   "name": "vmess-1568133359",
+   "delay": 146
   },
   {
-   "name": "vmess-1572886539",
-   "delay": 150
-  },
-  {
-   "name": "vmess-704660105",
+   "name": "🇺🇸US-138.199.42.68-0070",
    "delay": 151
   },
   {
-   "name": "shadowsocks-1575947162",
+   "name": "vless-1592758626",
+   "delay": 154
+  },
+  {
+   "name": "vmess-331222962",
+   "delay": 156
+  },
+  {
+   "name": "vmess-485686944",
+   "delay": 158
+  },
+  {
+   "name": "shadowsocks-1574303180",
    "delay": 161
   }
  ]
