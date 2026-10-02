@@ -1,103 +1,101 @@
 {
- "generated_at": "2026-10-02T00:51:28Z",
+ "generated_at": "2026-10-02T09:52:25Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3365,
- "alive": 660,
- "github_ok": 60,
- "final": 660,
+ "candidates": 3500,
+ "alive": 692,
+ "github_ok": 59,
+ "final": 692,
  "by_protocol": {
-  "vmess": 88,
-  "ss": 173,
-  "vless": 289,
-  "trojan": 21,
-  "hysteria2": 60,
-  "http": 14,
-  "anytls": 12,
-  "tuic": 1,
-  "socks5": 1,
-  "hysteria": 1
+  "vless": 249,
+  "vmess": 101,
+  "hysteria2": 165,
+  "ss": 151,
+  "http": 11,
+  "trojan": 12,
+  "socks5": 2,
+  "anytls": 1
  },
  "top_github": [
   {
-   "name": "vmess-1440773913",
-   "delay": 18
+   "name": "vless-656232095",
+   "delay": 51
   },
   {
-   "name": "shadowsocks-1551398181",
-   "delay": 19
+   "name": "vless-656232178",
+   "delay": 54
   },
   {
-   "name": "vmess-1478639975",
-   "delay": 24
+   "name": "vmess-1461170759",
+   "delay": 60
   },
   {
-   "name": "美国 026",
-   "delay": 33
+   "name": "vmess-1454576246",
+   "delay": 61
   },
   {
-   "name": "美国 058",
-   "delay": 34
+   "name": "vmess-1451345304",
+   "delay": 61
   },
   {
-   "name": "美国 059",
-   "delay": 35
+   "name": "hysteria2-408149659",
+   "delay": 77
   },
   {
-   "name": "美国 359",
-   "delay": 37
+   "name": "hysteria2-1623652294",
+   "delay": 91
   },
   {
-   "name": "🇩🇪 德国 | DEU #11",
-   "delay": 37
+   "name": "hysteria2-855509014",
+   "delay": 105
   },
   {
-   "name": "美国 325",
-   "delay": 38
+   "name": "hysteria2-918221056",
+   "delay": 114
   },
   {
-   "name": "美国 357",
-   "delay": 38
+   "name": "vless-1610387345",
+   "delay": 118
   },
   {
-   "name": "巴西 003",
-   "delay": 38
+   "name": "hysteria2-1623652299",
+   "delay": 119
   },
   {
-   "name": "vmess-1457394307",
-   "delay": 40
+   "name": "vless-1518612526",
+   "delay": 122
   },
   {
-   "name": "美国 276",
-   "delay": 43
+   "name": "shadowsocks-1591586192",
+   "delay": 131
   },
   {
-   "name": "美国 638",
-   "delay": 43
+   "name": "shadowsocks-1616363182",
+   "delay": 131
   },
   {
-   "name": "巴西 009",
-   "delay": 44
+   "name": "shadowsocks-1605125165",
+   "delay": 137
   },
   {
-   "name": "美国 255",
-   "delay": 44
+   "name": "美国 054",
+   "delay": 143
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0138",
-   "delay": 45
+   "name": "vmess-2387876",
+   "delay": 154
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0137",
-   "delay": 46
+   "name": "vmess-712821982",
+   "delay": 154
   },
   {
-   "name": "美国 358",
-   "delay": 47
+   "name": "vless-1220758554",
+   "delay": 155
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0133",
-   "delay": 48
+   "name": "vless-1085415089",
+   "delay": 157
   }
  ]
 }
