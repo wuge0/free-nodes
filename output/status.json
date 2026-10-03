@@ -1,101 +1,102 @@
 {
- "generated_at": "2026-10-03T11:44:55Z",
+ "generated_at": "2026-10-03T16:23:36Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2890,
- "alive": 643,
+ "candidates": 3449,
+ "alive": 745,
  "github_ok": 60,
- "final": 643,
+ "final": 745,
  "by_protocol": {
+  "ss": 160,
   "vmess": 95,
-  "ss": 170,
-  "vless": 178,
-  "hysteria2": 152,
-  "http": 11,
-  "trojan": 35,
-  "socks5": 1,
-  "hysteria": 1
+  "vless": 270,
+  "hysteria2": 154,
+  "http": 14,
+  "trojan": 47,
+  "anytls": 3,
+  "hysteria": 1,
+  "socks5": 1
  },
  "top_github": [
   {
-   "name": "vmess-1562896858",
-   "delay": 94
+   "name": "shadowsocks-1636559938",
+   "delay": 90
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0082",
-   "delay": 105
-  },
-  {
-   "name": "🇺🇸US-37.19.198.160-0080",
-   "delay": 111
+   "name": "vmess-1560533900",
+   "delay": 93
   },
   {
    "name": "shadowsocks-1626618495",
-   "delay": 112
+   "delay": 99
   },
   {
-   "name": "shadowsocks-1636559938",
-   "delay": 115
+   "name": "🇺🇸US-37.19.198.160-0080",
+   "delay": 105
+  },
+  {
+   "name": "vmess-1440773913",
+   "delay": 105
   },
   {
    "name": "🇺🇸US-198.98.53.130-0076",
-   "delay": 118
+   "delay": 106
+  },
+  {
+   "name": "🇺🇸US-37.19.198.244-0083",
+   "delay": 110
+  },
+  {
+   "name": "🇺🇸US-37.19.198.236-0082",
+   "delay": 114
+  },
+  {
+   "name": "vmess-2387896",
+   "delay": 119
+  },
+  {
+   "name": "vmess-982953638",
+   "delay": 125
+  },
+  {
+   "name": "vmess-1548367571",
+   "delay": 126
   },
   {
    "name": "🇺🇸US-37.19.198.243-0081",
-   "delay": 121
-  },
-  {
-   "name": "vmess-655843008",
    "delay": 127
   },
   {
-   "name": "shadowsocks-1636343416",
-   "delay": 134
+   "name": "vmess-1565433479",
+   "delay": 132
   },
   {
-   "name": "vmess-656230815",
-   "delay": 139
+   "name": "vmess-1572886539",
+   "delay": 142
   },
   {
-   "name": "vmess-143584",
+   "name": "US - zhuhai.uk 03 #1",
+   "delay": 142
+  },
+  {
+   "name": "vmess-704660104",
+   "delay": 145
+  },
+  {
+   "name": "shadowsocks-1635221275",
    "delay": 146
   },
   {
-   "name": "vmess-656230758",
-   "delay": 147
+   "name": "vmess-1461170766",
+   "delay": 146
   },
   {
-   "name": "vmess-656230757",
-   "delay": 148
-  },
-  {
-   "name": "shadowsocks-1575966261",
+   "name": "🇺🇸US-138.199.42.68-0085",
    "delay": 150
   },
   {
-   "name": "vmess-1440773911",
-   "delay": 158
-  },
-  {
-   "name": "🇺🇸[www.v2nodes.com] ss-US-1586... #1",
-   "delay": 159
-  },
-  {
-   "name": "vmess-1453597051",
-   "delay": 161
-  },
-  {
-   "name": "🇺🇸US-156.146.38.167-0079",
-   "delay": 162
-  },
-  {
-   "name": "vmess-650451561",
-   "delay": 163
-  },
-  {
-   "name": "shadowsocks-1591586192",
-   "delay": 164
+   "name": "vmess-48649242",
+   "delay": 167
   }
  ]
 }
