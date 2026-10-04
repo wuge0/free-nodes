@@ -1,101 +1,102 @@
 {
- "generated_at": "2026-10-04T06:00:14Z",
+ "generated_at": "2026-10-04T12:27:53Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3381,
- "alive": 704,
+ "candidates": 3192,
+ "alive": 645,
  "github_ok": 60,
- "final": 704,
+ "final": 645,
  "by_protocol": {
-  "hysteria2": 143,
-  "ss": 161,
-  "vmess": 98,
-  "vless": 207,
-  "trojan": 73,
-  "http": 18,
-  "anytls": 2,
-  "socks5": 2
+  "hysteria2": 100,
+  "vless": 179,
+  "ss": 169,
+  "vmess": 92,
+  "http": 9,
+  "trojan": 81,
+  "anytls": 5,
+  "socks5": 9,
+  "hysteria": 1
  },
  "top_github": [
   {
-   "name": "🪙70@oneclickvpnkeys",
-   "delay": 16
+   "name": "hysteria2-1623484296",
+   "delay": 45
   },
   {
-   "name": "shadowsocks-1636559938",
-   "delay": 19
-  },
-  {
-   "name": "vmess-650451562",
-   "delay": 20
-  },
-  {
-   "name": "vmess-655842892",
-   "delay": 20
-  },
-  {
-   "name": "vmess-143571",
-   "delay": 21
-  },
-  {
-   "name": "美国 004",
-   "delay": 28
-  },
-  {
-   "name": "美国 721",
-   "delay": 28
-  },
-  {
-   "name": "美国 701",
-   "delay": 33
-  },
-  {
-   "name": "🏁RELAY-104.21.70.21-0448",
-   "delay": 38
-  },
-  {
-   "name": "美国 720",
-   "delay": 40
-  },
-  {
-   "name": "中国 075",
-   "delay": 44
-  },
-  {
-   "name": "🇺🇸US-37.19.198.236-0069",
+   "name": "hysteria2-1623483675",
    "delay": 46
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0063",
-   "delay": 49
+   "name": "hysteria2-1623483886",
+   "delay": 46
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0065",
-   "delay": 49
+   "name": "hysteria2-1623652367",
+   "delay": 47
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0066",
+   "name": "hysteria2-1623484028",
+   "delay": 47
+  },
+  {
+   "name": "hysteria2-1623483625",
+   "delay": 48
+  },
+  {
+   "name": "hysteria2-1623483544",
    "delay": 50
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0058",
-   "delay": 50
+   "name": "hysteria2-1623483484",
+   "delay": 53
   },
   {
-   "name": "巴西 003",
+   "name": "hysteria2-1623652284",
    "delay": 54
   },
   {
-   "name": "vmess-676886737",
-   "delay": 68
+   "name": "hysteria2-561697888",
+   "delay": 54
   },
   {
-   "name": "vless-2338592",
-   "delay": 68
+   "name": "hysteria2-474576783",
+   "delay": 65
   },
   {
-   "name": "vless-46745",
-   "delay": 68
+   "name": "vless-1364513245",
+   "delay": 80
+  },
+  {
+   "name": "vless-1092780181",
+   "delay": 80
+  },
+  {
+   "name": "vless-1221070215",
+   "delay": 81
+  },
+  {
+   "name": "vless-1019459804",
+   "delay": 81
+  },
+  {
+   "name": "vless-1048866254",
+   "delay": 81
+  },
+  {
+   "name": "🇺🇸US-173.244.56.9-0115",
+   "delay": 81
+  },
+  {
+   "name": "vless-1090192613",
+   "delay": 83
+  },
+  {
+   "name": "hysteria2-153592298",
+   "delay": 83
+  },
+  {
+   "name": "🇺🇸US-173.244.56.6-0116",
+   "delay": 86
   }
  ]
 }
