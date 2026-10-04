@@ -1,102 +1,103 @@
 {
- "generated_at": "2026-10-04T12:27:53Z",
+ "generated_at": "2026-10-04T18:41:02Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3192,
- "alive": 645,
+ "candidates": 3169,
+ "alive": 582,
  "github_ok": 60,
- "final": 645,
+ "final": 582,
  "by_protocol": {
-  "hysteria2": 100,
-  "vless": 179,
-  "ss": 169,
-  "vmess": 92,
-  "http": 9,
-  "trojan": 81,
+  "vmess": 80,
+  "ss": 148,
+  "http": 10,
+  "vless": 192,
+  "hysteria2": 67,
+  "trojan": 73,
+  "tuic": 1,
   "anytls": 5,
-  "socks5": 9,
+  "socks5": 5,
   "hysteria": 1
  },
  "top_github": [
   {
-   "name": "hysteria2-1623484296",
+   "name": "vmess-2155648",
+   "delay": 17
+  },
+  {
+   "name": "🇺🇸US-98.89.22.134-0409",
+   "delay": 18
+  },
+  {
+   "name": "US - zhuhai.uk",
+   "delay": 22
+  },
+  {
+   "name": "vmess-1564791383",
+   "delay": 24
+  },
+  {
+   "name": "vmess-1559656330",
+   "delay": 24
+  },
+  {
+   "name": "vmess-1457394307",
+   "delay": 27
+  },
+  {
+   "name": "vmess-485686545",
+   "delay": 27
+  },
+  {
+   "name": "vmess-1478639975",
+   "delay": 31
+  },
+  {
+   "name": "vmess-1442009673",
+   "delay": 32
+  },
+  {
+   "name": "巴西 002",
    "delay": 45
   },
   {
-   "name": "hysteria2-1623483675",
-   "delay": 46
+   "name": "🇺🇸US-37.19.198.236-0073",
+   "delay": 49
   },
   {
-   "name": "hysteria2-1623483886",
-   "delay": 46
+   "name": "🇺🇸US-37.19.198.160-0071",
+   "delay": 49
   },
   {
-   "name": "hysteria2-1623652367",
-   "delay": 47
+   "name": "🇺🇸US-37.19.198.243-0069",
+   "delay": 51
   },
   {
-   "name": "hysteria2-1623484028",
-   "delay": 47
+   "name": "shadowsocks-1653901313",
+   "delay": 55
   },
   {
-   "name": "hysteria2-1623483625",
-   "delay": 48
+   "name": "🇩🇪 德国 | DEU #1",
+   "delay": 55
   },
   {
-   "name": "hysteria2-1623483544",
-   "delay": 50
+   "name": "vless-1108742512",
+   "delay": 64
   },
   {
-   "name": "hysteria2-1623483484",
-   "delay": 53
-  },
-  {
-   "name": "hysteria2-1623652284",
-   "delay": 54
-  },
-  {
-   "name": "hysteria2-561697888",
-   "delay": 54
-  },
-  {
-   "name": "hysteria2-474576783",
+   "name": "vless-1599162907",
    "delay": 65
   },
   {
-   "name": "vless-1364513245",
-   "delay": 80
+   "name": "vless-745632761",
+   "delay": 69
   },
   {
-   "name": "vless-1092780181",
-   "delay": 80
+   "name": "vless-2338592",
+   "delay": 70
   },
   {
-   "name": "vless-1221070215",
-   "delay": 81
-  },
-  {
-   "name": "vless-1019459804",
-   "delay": 81
-  },
-  {
-   "name": "vless-1048866254",
-   "delay": 81
-  },
-  {
-   "name": "🇺🇸US-173.244.56.9-0115",
-   "delay": 81
-  },
-  {
-   "name": "vless-1090192613",
-   "delay": 83
-  },
-  {
-   "name": "hysteria2-153592298",
-   "delay": 83
-  },
-  {
-   "name": "🇺🇸US-173.244.56.6-0116",
-   "delay": 86
+   "name": "vless-1058822113",
+   "delay": 74
   }
  ]
 }
