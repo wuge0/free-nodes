@@ -1,103 +1,103 @@
 {
- "generated_at": "2026-10-04T18:41:02Z",
+ "generated_at": "2026-10-04T23:59:56Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3169,
- "alive": 582,
+ "candidates": 3285,
+ "alive": 769,
  "github_ok": 60,
- "final": 582,
+ "final": 769,
  "by_protocol": {
-  "vmess": 80,
-  "ss": 148,
-  "http": 10,
-  "vless": 192,
-  "hysteria2": 67,
-  "trojan": 73,
+  "ss": 178,
+  "vmess": 83,
+  "vless": 330,
+  "http": 15,
+  "hysteria2": 62,
+  "trojan": 93,
+  "anytls": 3,
   "tuic": 1,
-  "anytls": 5,
-  "socks5": 5,
+  "socks5": 3,
   "hysteria": 1
  },
  "top_github": [
   {
-   "name": "vmess-2155648",
-   "delay": 17
-  },
-  {
-   "name": "🇺🇸US-98.89.22.134-0409",
-   "delay": 18
-  },
-  {
-   "name": "US - zhuhai.uk",
-   "delay": 22
-  },
-  {
-   "name": "vmess-1564791383",
-   "delay": 24
-  },
-  {
-   "name": "vmess-1559656330",
-   "delay": 24
-  },
-  {
-   "name": "vmess-1457394307",
-   "delay": 27
-  },
-  {
-   "name": "vmess-485686545",
-   "delay": 27
-  },
-  {
-   "name": "vmess-1478639975",
-   "delay": 31
+   "name": "🇺🇸 美国 | USA #5",
+   "delay": 63
   },
   {
    "name": "vmess-1442009673",
-   "delay": 32
+   "delay": 63
   },
   {
-   "name": "巴西 002",
-   "delay": 45
+   "name": "vmess-1454111449",
+   "delay": 66
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0073",
-   "delay": 49
+   "name": "🇺🇸US-98.88.75.157-2512",
+   "delay": 68
   },
   {
    "name": "🇺🇸US-37.19.198.160-0071",
-   "delay": 49
+   "delay": 86
+  },
+  {
+   "name": "🇺🇸US-37.19.198.244-0074",
+   "delay": 89
   },
   {
    "name": "🇺🇸US-37.19.198.243-0069",
-   "delay": 51
+   "delay": 90
   },
   {
-   "name": "shadowsocks-1653901313",
-   "delay": 55
+   "name": "vmess-656230758",
+   "delay": 100
   },
   {
-   "name": "🇩🇪 德国 | DEU #1",
-   "delay": 55
+   "name": "vmess-656230757",
+   "delay": 101
   },
   {
-   "name": "vless-1108742512",
-   "delay": 64
+   "name": "vmess-704660105",
+   "delay": 102
   },
   {
-   "name": "vless-1599162907",
-   "delay": 65
+   "name": "vmess-1561737841",
+   "delay": 102
   },
   {
-   "name": "vless-745632761",
-   "delay": 69
+   "name": "vmess-99558",
+   "delay": 104
   },
   {
-   "name": "vless-2338592",
-   "delay": 70
+   "name": "vmess-1444974385",
+   "delay": 113
   },
   {
-   "name": "vless-1058822113",
-   "delay": 74
+   "name": "vmess-1565433479",
+   "delay": 114
+  },
+  {
+   "name": "vless-1667147456",
+   "delay": 114
+  },
+  {
+   "name": "美国 069",
+   "delay": 115
+  },
+  {
+   "name": "vmess-1620472971",
+   "delay": 118
+  },
+  {
+   "name": "vmess-1440773910",
+   "delay": 120
+  },
+  {
+   "name": "vmess-2387902",
+   "delay": 122
+  },
+  {
+   "name": "🇺🇸US-138.199.42.68-0178",
+   "delay": 123
   }
  ]
 }
