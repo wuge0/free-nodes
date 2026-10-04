@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-10-03T21:24:08Z",
+ "generated_at": "2026-10-04T06:00:14Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3418,
- "alive": 768,
+ "candidates": 3381,
+ "alive": 704,
  "github_ok": 60,
- "final": 768,
+ "final": 704,
  "by_protocol": {
-  "vmess": 95,
-  "vless": 286,
-  "ss": 173,
-  "hysteria2": 154,
-  "trojan": 53,
-  "http": 5,
-  "socks5": 1,
-  "anytls": 1
+  "hysteria2": 143,
+  "ss": 161,
+  "vmess": 98,
+  "vless": 207,
+  "trojan": 73,
+  "http": 18,
+  "anytls": 2,
+  "socks5": 2
  },
  "top_github": [
   {
-   "name": "vmess-1451345304",
-   "delay": 45
+   "name": "🪙70@oneclickvpnkeys",
+   "delay": 16
   },
   {
-   "name": "vmess-1444189792",
+   "name": "shadowsocks-1636559938",
+   "delay": 19
+  },
+  {
+   "name": "vmess-650451562",
+   "delay": 20
+  },
+  {
+   "name": "vmess-655842892",
+   "delay": 20
+  },
+  {
+   "name": "vmess-143571",
+   "delay": 21
+  },
+  {
+   "name": "美国 004",
+   "delay": 28
+  },
+  {
+   "name": "美国 721",
+   "delay": 28
+  },
+  {
+   "name": "美国 701",
+   "delay": 33
+  },
+  {
+   "name": "🏁RELAY-104.21.70.21-0448",
+   "delay": 38
+  },
+  {
+   "name": "美国 720",
+   "delay": 40
+  },
+  {
+   "name": "中国 075",
+   "delay": 44
+  },
+  {
+   "name": "🇺🇸US-37.19.198.236-0069",
+   "delay": 46
+  },
+  {
+   "name": "🇺🇸US-37.19.198.243-0063",
    "delay": 49
   },
   {
-   "name": "vless-804333120",
-   "delay": 51
+   "name": "🇺🇸US-37.19.198.160-0065",
+   "delay": 49
   },
   {
-   "name": "巴西 004",
-   "delay": 52
+   "name": "🇺🇸US-37.19.198.244-0066",
+   "delay": 50
   },
   {
-   "name": "vless-700289117",
-   "delay": 53
+   "name": "🇺🇸US-198.98.53.130-0058",
+   "delay": 50
   },
   {
-   "name": "vless-655776492",
+   "name": "巴西 003",
+   "delay": 54
+  },
+  {
+   "name": "vmess-676886737",
    "delay": 68
   },
   {
-   "name": "shadowsocks-468218487",
-   "delay": 81
+   "name": "vless-2338592",
+   "delay": 68
   },
   {
-   "name": "hysteria2-106798541",
-   "delay": 98
-  },
-  {
-   "name": "hysteria2-674602384",
-   "delay": 100
-  },
-  {
-   "name": "trojan-1643587524",
-   "delay": 104
-  },
-  {
-   "name": "US - zhuhai.uk 03",
-   "delay": 112
-  },
-  {
-   "name": "vless-1645364926",
-   "delay": 113
-  },
-  {
-   "name": "vless-984268591",
-   "delay": 121
-  },
-  {
-   "name": "shadowsocks-1591586192",
-   "delay": 123
-  },
-  {
-   "name": "vless-940261363",
-   "delay": 123
-  },
-  {
-   "name": "vless-700289120",
-   "delay": 124
-  },
-  {
-   "name": "vless-1603591593",
-   "delay": 124
-  },
-  {
-   "name": "🇺🇸US-74.201.177.54-0428",
-   "delay": 129
-  },
-  {
-   "name": "vmess-1446350654",
-   "delay": 132
-  },
-  {
-   "name": "vmess-1453104505",
-   "delay": 132
+   "name": "vless-46745",
+   "delay": 68
   }
  ]
 }
