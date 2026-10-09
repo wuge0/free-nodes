@@ -1,101 +1,102 @@
 {
- "generated_at": "2026-10-08T18:54:20Z",
+ "generated_at": "2026-10-09T01:16:11Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2638,
- "alive": 626,
- "github_ok": 58,
- "final": 626,
+ "candidates": 2578,
+ "alive": 667,
+ "github_ok": 60,
+ "final": 667,
  "by_protocol": {
-  "vless": 245,
-  "hysteria2": 65,
-  "ss": 162,
-  "http": 21,
-  "anytls": 8,
-  "vmess": 51,
-  "trojan": 73,
-  "socks5": 1
+  "ss": 179,
+  "http": 29,
+  "vless": 241,
+  "hysteria2": 55,
+  "anytls": 7,
+  "vmess": 54,
+  "trojan": 100,
+  "socks5": 1,
+  "hysteria": 1
  },
  "top_github": [
   {
-   "name": "vless-468882956",
-   "delay": 73
-  },
-  {
-   "name": "vless-319344586",
-   "delay": 75
-  },
-  {
-   "name": "vless-1259627592",
-   "delay": 85
-  },
-  {
-   "name": "hysteria2-1066924734",
-   "delay": 87
-  },
-  {
-   "name": "hysteria2-474576739",
-   "delay": 94
-  },
-  {
-   "name": "🇺🇸US-108.181.0.177-0193",
-   "delay": 108
-  },
-  {
-   "name": "🇸🇬[www.v2nodes.com] vless-SG",
-   "delay": 108
-  },
-  {
-   "name": "🇨🇦CA-108.181.118.10-0189",
-   "delay": 113
-  },
-  {
-   "name": "shadowsocks-27291",
-   "delay": 126
-  },
-  {
-   "name": "vless-655776492",
-   "delay": 137
-  },
-  {
-   "name": "vless-1518612526",
-   "delay": 137
+   "name": "🇺🇸US-216.105.168.18-0166",
+   "delay": 65
   },
   {
    "name": "US - zhuhai.uk 07",
-   "delay": 147
+   "delay": 77
   },
   {
-   "name": "vless-656232082",
-   "delay": 149
+   "name": "vless-468882956",
+   "delay": 78
   },
   {
-   "name": "🇺🇸 美国 | USA 17",
-   "delay": 150
+   "name": "US - zhuhai.uk 06",
+   "delay": 80
   },
   {
-   "name": "vless-656232118",
-   "delay": 152
+   "name": "vless-1257938811",
+   "delay": 82
   },
   {
-   "name": "vless-656231728",
-   "delay": 160
-  },
-  {
-   "name": "US - zhuhai.uk 08",
-   "delay": 172
-  },
-  {
-   "name": "vless-700289118",
-   "delay": 177
+   "name": "vless-319344586",
+   "delay": 83
   },
   {
    "name": "US - zhuhai.uk 03",
-   "delay": 180
+   "delay": 83
   },
   {
-   "name": "shadowsocks-27276",
-   "delay": 182
+   "name": "hysteria2-143263693",
+   "delay": 96
+  },
+  {
+   "name": "hysteria2-918221056",
+   "delay": 102
+  },
+  {
+   "name": "hysteria2-474576739",
+   "delay": 103
+  },
+  {
+   "name": "🇺🇸US-173.244.56.6-0087",
+   "delay": 105
+  },
+  {
+   "name": "🇺🇸US-108.181.0.177-0077",
+   "delay": 107
+  },
+  {
+   "name": "🇸🇬[www.v2nodes.com] vless-SG",
+   "delay": 116
+  },
+  {
+   "name": "🇺🇸 美国 | USA",
+   "delay": 118
+  },
+  {
+   "name": "US - zhuhai.uk 08",
+   "delay": 125
+  },
+  {
+   "name": "🇨🇦CA-108.181.118.10-0070",
+   "delay": 128
+  },
+  {
+   "name": "vless-656232118",
+   "delay": 135
+  },
+  {
+   "name": "hysteria2-10923",
+   "delay": 137
+  },
+  {
+   "name": "vmess-97160",
+   "delay": 139
+  },
+  {
+   "name": "vmess-712805983",
+   "delay": 146
   }
  ]
 }
