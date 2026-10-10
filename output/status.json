@@ -1,102 +1,101 @@
 {
- "generated_at": "2026-10-09T01:16:11Z",
+ "generated_at": "2026-10-10T09:56:21Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2578,
- "alive": 667,
- "github_ok": 60,
- "final": 667,
+ "candidates": 3058,
+ "alive": 647,
+ "github_ok": 58,
+ "final": 647,
  "by_protocol": {
-  "ss": 179,
-  "http": 29,
-  "vless": 241,
-  "hysteria2": 55,
-  "anytls": 7,
-  "vmess": 54,
-  "trojan": 100,
-  "socks5": 1,
-  "hysteria": 1
+  "hysteria2": 81,
+  "ss": 163,
+  "http": 20,
+  "vless": 192,
+  "vmess": 58,
+  "trojan": 126,
+  "anytls": 5,
+  "socks5": 2
  },
  "top_github": [
   {
-   "name": "🇺🇸US-216.105.168.18-0166",
-   "delay": 65
+   "name": "hysteria2-1668866009",
+   "delay": 73
   },
   {
-   "name": "US - zhuhai.uk 07",
-   "delay": 77
+   "name": "hysteria2-474576783",
+   "delay": 121
   },
   {
-   "name": "vless-468882956",
-   "delay": 78
-  },
-  {
-   "name": "US - zhuhai.uk 06",
-   "delay": 80
-  },
-  {
-   "name": "vless-1257938811",
-   "delay": 82
-  },
-  {
-   "name": "vless-319344586",
-   "delay": 83
-  },
-  {
-   "name": "US - zhuhai.uk 03",
-   "delay": 83
-  },
-  {
-   "name": "hysteria2-143263693",
-   "delay": 96
-  },
-  {
-   "name": "hysteria2-918221056",
-   "delay": 102
-  },
-  {
-   "name": "hysteria2-474576739",
-   "delay": 103
-  },
-  {
-   "name": "🇺🇸US-173.244.56.6-0087",
-   "delay": 105
-  },
-  {
-   "name": "🇺🇸US-108.181.0.177-0077",
-   "delay": 107
-  },
-  {
-   "name": "🇸🇬[www.v2nodes.com] vless-SG",
-   "delay": 116
-  },
-  {
-   "name": "🇺🇸 美国 | USA",
-   "delay": 118
-  },
-  {
-   "name": "US - zhuhai.uk 08",
-   "delay": 125
-  },
-  {
-   "name": "🇨🇦CA-108.181.118.10-0070",
-   "delay": 128
-  },
-  {
-   "name": "vless-656232118",
-   "delay": 135
-  },
-  {
-   "name": "hysteria2-10923",
+   "name": "shadowsocks-1752515798",
    "delay": 137
   },
   {
-   "name": "vmess-97160",
-   "delay": 139
+   "name": "🇺🇸US-156.146.38.167-0186",
+   "delay": 141
   },
   {
-   "name": "vmess-712805983",
-   "delay": 146
+   "name": "🇺🇸US-37.19.198.236-0124",
+   "delay": 141
+  },
+  {
+   "name": "🇺🇸US-37.19.198.244-0114",
+   "delay": 142
+  },
+  {
+   "name": "🇺🇸US-37.19.198.243-0126",
+   "delay": 144
+  },
+  {
+   "name": "🇺🇸US-37.19.198.160-0122",
+   "delay": 144
+  },
+  {
+   "name": "🇺🇸US-156.146.38.168-0180",
+   "delay": 145
+  },
+  {
+   "name": "🇺🇸US-156.146.38.170-0181",
+   "delay": 149
+  },
+  {
+   "name": "🇺🇸US-156.146.38.169-0182",
+   "delay": 150
+  },
+  {
+   "name": "hysteria2-1066924734",
+   "delay": 150
+  },
+  {
+   "name": "US - zhuhai.uk 08",
+   "delay": 158
+  },
+  {
+   "name": "US - zhuhai.uk 07",
+   "delay": 160
+  },
+  {
+   "name": "vless-312439951",
+   "delay": 165
+  },
+  {
+   "name": "shadowsocks-1746935299",
+   "delay": 166
+  },
+  {
+   "name": "US - zhuhai.uk 05",
+   "delay": 166
+  },
+  {
+   "name": "US - zhuhai.uk 11",
+   "delay": 171
+  },
+  {
+   "name": "US - zhuhai.uk 02",
+   "delay": 171
+  },
+  {
+   "name": "shadowsocks-1746935301",
+   "delay": 172
   }
  ]
 }
