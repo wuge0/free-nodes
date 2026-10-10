@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-10-10T09:56:21Z",
+ "generated_at": "2026-10-10T17:23:25Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3058,
- "alive": 647,
- "github_ok": 58,
- "final": 647,
+ "candidates": 2569,
+ "alive": 595,
+ "github_ok": 56,
+ "final": 595,
  "by_protocol": {
-  "hysteria2": 81,
-  "ss": 163,
+  "hysteria2": 54,
+  "ss": 148,
   "http": 20,
-  "vless": 192,
-  "vmess": 58,
-  "trojan": 126,
-  "anytls": 5,
-  "socks5": 2
+  "vless": 213,
+  "vmess": 48,
+  "trojan": 105,
+  "socks5": 2,
+  "anytls": 5
  },
  "top_github": [
   {
-   "name": "hysteria2-1668866009",
-   "delay": 73
-  },
-  {
-   "name": "hysteria2-474576783",
-   "delay": 121
-  },
-  {
-   "name": "shadowsocks-1752515798",
-   "delay": 137
-  },
-  {
-   "name": "🇺🇸US-156.146.38.167-0186",
-   "delay": 141
-  },
-  {
-   "name": "🇺🇸US-37.19.198.236-0124",
-   "delay": 141
+   "name": "hysteria2-1672410084",
+   "delay": 43
   },
   {
    "name": "🇺🇸US-37.19.198.244-0114",
-   "delay": 142
+   "delay": 84
+  },
+  {
+   "name": "🇺🇸US-37.19.198.236-0124",
+   "delay": 85
   },
   {
    "name": "🇺🇸US-37.19.198.243-0126",
-   "delay": 144
+   "delay": 87
+  },
+  {
+   "name": "US - zhuhai.uk 06",
+   "delay": 89
   },
   {
    "name": "🇺🇸US-37.19.198.160-0122",
-   "delay": 144
+   "delay": 93
   },
   {
-   "name": "🇺🇸US-156.146.38.168-0180",
-   "delay": 145
+   "name": "vless-1689339407",
+   "delay": 98
   },
   {
-   "name": "🇺🇸US-156.146.38.170-0181",
-   "delay": 149
+   "name": "vless-1735035316",
+   "delay": 103
   },
   {
-   "name": "🇺🇸US-156.146.38.169-0182",
-   "delay": 150
-  },
-  {
-   "name": "hysteria2-1066924734",
-   "delay": 150
-  },
-  {
-   "name": "US - zhuhai.uk 08",
-   "delay": 158
-  },
-  {
-   "name": "US - zhuhai.uk 07",
-   "delay": 160
-  },
-  {
-   "name": "vless-312439951",
-   "delay": 165
+   "name": "shadowsocks-1736237342",
+   "delay": 110
   },
   {
    "name": "shadowsocks-1746935299",
-   "delay": 166
+   "delay": 116
   },
   {
-   "name": "US - zhuhai.uk 05",
-   "delay": 166
+   "name": "🇺🇸US-138.199.42.68-0081",
+   "delay": 127
   },
   {
-   "name": "US - zhuhai.uk 11",
-   "delay": 171
+   "name": "shadowsocks-1762352562",
+   "delay": 127
   },
   {
-   "name": "US - zhuhai.uk 02",
-   "delay": 171
+   "name": "hysteria2-474576783",
+   "delay": 128
+  },
+  {
+   "name": "vmess-48649242",
+   "delay": 132
   },
   {
    "name": "shadowsocks-1746935301",
-   "delay": 172
+   "delay": 136
+  },
+  {
+   "name": "vmess-1614729357",
+   "delay": 136
+  },
+  {
+   "name": "vmess-16103",
+   "delay": 138
+  },
+  {
+   "name": "vmess-656230758",
+   "delay": 141
+  },
+  {
+   "name": "🇺🇸US-140.82.63.79-0079",
+   "delay": 152
+  },
+  {
+   "name": "hysteria2-1532335411",
+   "delay": 162
   }
  ]
 }
