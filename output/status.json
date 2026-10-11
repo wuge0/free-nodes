@@ -1,102 +1,101 @@
 {
- "generated_at": "2026-10-11T12:57:28Z",
+ "generated_at": "2026-10-11T19:36:23Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2572,
- "alive": 629,
- "github_ok": 60,
- "final": 629,
+ "candidates": 3137,
+ "alive": 646,
+ "github_ok": 57,
+ "final": 646,
  "by_protocol": {
-  "hysteria2": 69,
-  "ss": 166,
-  "vless": 182,
-  "vmess": 42,
-  "http": 22,
-  "trojan": 138,
-  "anytls": 7,
-  "socks5": 2,
-  "tuic": 1
+  "hysteria2": 59,
+  "vmess": 44,
+  "vless": 228,
+  "ss": 150,
+  "http": 17,
+  "trojan": 141,
+  "anytls": 6,
+  "socks5": 1
  },
  "top_github": [
   {
-   "name": "hysteria2-1672410084",
-   "delay": 79
+   "name": "hysteria2-1604107043",
+   "delay": 14
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0159",
-   "delay": 110
+   "name": "vmess-475023668",
+   "delay": 20
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0174",
-   "delay": 123
+   "name": "vmess-143571",
+   "delay": 23
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0160",
-   "delay": 125
+   "name": "vmess-650451562",
+   "delay": 28
   },
   {
-   "name": "shadowsocks-1765524008",
-   "delay": 127
+   "name": "美国 005",
+   "delay": 35
   },
   {
-   "name": "vless-1743407623",
-   "delay": 128
+   "name": "🇸🇬[www.v2nodes.com] vless-SG",
+   "delay": 41
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0158",
-   "delay": 129
+   "name": "🇺🇸US-37.19.198.243-0115",
+   "delay": 48
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0243",
-   "delay": 129
+   "name": "🇺🇸US-37.19.198.236-0119",
+   "delay": 52
+  },
+  {
+   "name": "🇺🇸US-37.19.198.244-0114",
+   "delay": 53
+  },
+  {
+   "name": "vless-1701028503",
+   "delay": 58
+  },
+  {
+   "name": "🇺🇸US-37.19.198.160-0117",
+   "delay": 62
+  },
+  {
+   "name": "vmess-650451561",
+   "delay": 65
+  },
+  {
+   "name": "vless-861328155",
+   "delay": 65
+  },
+  {
+   "name": "vless-1469358978",
+   "delay": 67
+  },
+  {
+   "name": "vmess-99558",
+   "delay": 68
+  },
+  {
+   "name": "vless-46745",
+   "delay": 73
   },
   {
    "name": "shadowsocks-1746935299",
-   "delay": 130
+   "delay": 74
   },
   {
-   "name": "hysteria2-1066924734",
-   "delay": 137
+   "name": "vless-1058822113",
+   "delay": 74
   },
   {
-   "name": "shadowsocks-687923666",
-   "delay": 151
+   "name": "vless-1108742512",
+   "delay": 77
   },
   {
-   "name": "vmess-48649242",
-   "delay": 155
-  },
-  {
-   "name": "🇺🇸US - udptoos.com",
-   "delay": 157
-  },
-  {
-   "name": "🇺🇸US-156.146.38.168-0207",
-   "delay": 158
-  },
-  {
-   "name": "🇺🇸US-15.204.247.206-0249",
-   "delay": 162
-  },
-  {
-   "name": "shadowsocks-1746935301",
-   "delay": 163
-  },
-  {
-   "name": "shadowsocks-1160568980",
-   "delay": 165
-  },
-  {
-   "name": "vmess-485686936",
-   "delay": 167
-  },
-  {
-   "name": "🇺🇸US-138.199.42.68-0080",
-   "delay": 173
-  },
-  {
-   "name": "vless-1469358988",
-   "delay": 173
+   "name": "vless-2338590",
+   "delay": 79
   }
  ]
 }
