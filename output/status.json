@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-10-11T19:36:23Z",
+ "generated_at": "2026-10-12T10:58:07Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3137,
- "alive": 646,
- "github_ok": 57,
- "final": 646,
+ "candidates": 3212,
+ "alive": 683,
+ "github_ok": 60,
+ "final": 683,
  "by_protocol": {
-  "hysteria2": 59,
-  "vmess": 44,
-  "vless": 228,
-  "ss": 150,
-  "http": 17,
-  "trojan": 141,
-  "anytls": 6,
+  "http": 44,
+  "hysteria2": 65,
+  "trojan": 152,
+  "vless": 182,
+  "ss": 172,
+  "vmess": 62,
+  "anytls": 5,
   "socks5": 1
  },
  "top_github": [
   {
-   "name": "hysteria2-1604107043",
-   "delay": 14
+   "name": "🇺🇸US - udptoos.com #11",
+   "delay": 75
   },
   {
-   "name": "vmess-475023668",
-   "delay": 20
+   "name": "🇺🇸US - udptoos.com #10",
+   "delay": 76
   },
   {
-   "name": "vmess-143571",
-   "delay": 23
+   "name": "🇺🇸US - udptoos.com #4",
+   "delay": 76
   },
   {
-   "name": "vmess-650451562",
-   "delay": 28
+   "name": "hysteria2-652726872",
+   "delay": 78
+  },
+  {
+   "name": "US - zhuhai.uk 05",
+   "delay": 79
+  },
+  {
+   "name": "🇺🇸US - udptoos.com #7",
+   "delay": 80
+  },
+  {
+   "name": "🇺🇸US - udptoos.com #3",
+   "delay": 80
+  },
+  {
+   "name": "🇺🇸US - udptoos.com #2",
+   "delay": 81
+  },
+  {
+   "name": "hysteria2-674602384",
+   "delay": 84
+  },
+  {
+   "name": "hysteria2-1066924734",
+   "delay": 88
+  },
+  {
+   "name": "trojan-1730744886",
+   "delay": 93
+  },
+  {
+   "name": "hysteria2-1531622830",
+   "delay": 95
   },
   {
    "name": "美国 005",
-   "delay": 35
+   "delay": 98
   },
   {
-   "name": "🇸🇬[www.v2nodes.com] vless-SG",
-   "delay": 41
+   "name": "hysteria2-1756083793",
+   "delay": 103
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0115",
-   "delay": 48
+   "name": "shadowsocks-468218514",
+   "delay": 107
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0119",
-   "delay": 52
+   "name": "美国 343",
+   "delay": 108
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0114",
-   "delay": 53
+   "name": "🇺🇸US - udptoos.com #5",
+   "delay": 110
   },
   {
-   "name": "vless-1701028503",
-   "delay": 58
+   "name": "shadowsocks-27291",
+   "delay": 111
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0117",
-   "delay": 62
+   "name": "🏁RELAY-104.18.35.86-0867",
+   "delay": 123
   },
   {
-   "name": "vmess-650451561",
-   "delay": 65
-  },
-  {
-   "name": "vless-861328155",
-   "delay": 65
-  },
-  {
-   "name": "vless-1469358978",
-   "delay": 67
-  },
-  {
-   "name": "vmess-99558",
-   "delay": 68
-  },
-  {
-   "name": "vless-46745",
-   "delay": 73
-  },
-  {
-   "name": "shadowsocks-1746935299",
-   "delay": 74
-  },
-  {
-   "name": "vless-1058822113",
-   "delay": 74
-  },
-  {
-   "name": "vless-1108742512",
-   "delay": 77
-  },
-  {
-   "name": "vless-2338590",
-   "delay": 79
+   "name": "vmess-5258767",
+   "delay": 129
   }
  ]
 }
