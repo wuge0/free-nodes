@@ -1,102 +1,101 @@
 {
- "generated_at": "2026-10-13T22:49:53Z",
+ "generated_at": "2026-10-14T17:17:18Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2530,
- "alive": 637,
- "github_ok": 60,
- "final": 637,
+ "candidates": 3154,
+ "alive": 644,
+ "github_ok": 57,
+ "final": 644,
  "by_protocol": {
-  "hysteria2": 38,
-  "vmess": 42,
-  "vless": 258,
-  "ss": 170,
-  "trojan": 106,
+  "hysteria2": 46,
+  "ss": 152,
+  "vless": 263,
   "http": 17,
-  "socks5": 4,
-  "anytls": 1,
-  "hysteria": 1
+  "vmess": 66,
+  "trojan": 95,
+  "socks5": 1,
+  "anytls": 4
  },
  "top_github": [
   {
    "name": "hysteria2-1672410084",
-   "delay": 57
-  },
-  {
-   "name": "vmess-655842892",
-   "delay": 86
-  },
-  {
-   "name": "vless-1769017723",
-   "delay": 105
+   "delay": 25
   },
   {
    "name": "🇺🇸US-37.19.198.160-0089",
-   "delay": 118
-  },
-  {
-   "name": "vless-1801437218",
-   "delay": 119
+   "delay": 60
   },
   {
    "name": "🇺🇸US-37.19.198.243-0087",
-   "delay": 120
+   "delay": 61
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0243",
-   "delay": 127
-  },
-  {
-   "name": "vmess-1575908235",
-   "delay": 127
+   "name": "🇺🇸US-37.19.198.236-0085",
+   "delay": 61
   },
   {
    "name": "🇺🇸US-37.19.198.244-0088",
-   "delay": 128
+   "delay": 65
   },
   {
-   "name": "vmess-1570694867",
-   "delay": 132
+   "name": "美国 017",
+   "delay": 74
   },
   {
-   "name": "shadowsocks-1799547671",
-   "delay": 144
+   "name": "vless-1689339407",
+   "delay": 77
   },
   {
-   "name": "vmess-656063482",
-   "delay": 146
+   "name": "vless-1703523404",
+   "delay": 80
   },
   {
-   "name": "🇨🇦CA-3.97.11.240-0098",
-   "delay": 149
+   "name": "美国 487",
+   "delay": 80
   },
   {
-   "name": "vmess-145236",
-   "delay": 151
-  },
-  {
-   "name": "trojan-1785916794",
-   "delay": 153
-  },
-  {
-   "name": "🇺🇸US-156.146.38.167-0083",
-   "delay": 154
-  },
-  {
-   "name": "🇺🇸US-156.146.38.170-0082",
-   "delay": 157
-  },
-  {
-   "name": "shadowsocks-1779328750",
-   "delay": 160
-  },
-  {
-   "name": "shadowsocks-1792117694",
-   "delay": 161
+   "name": "vless-700086903",
+   "delay": 82
   },
   {
    "name": "vless-1731106321",
-   "delay": 161
+   "delay": 82
+  },
+  {
+   "name": "US - zhuhai.uk 07",
+   "delay": 84
+  },
+  {
+   "name": "vless-1751019251",
+   "delay": 85
+  },
+  {
+   "name": "vless-103961669",
+   "delay": 86
+  },
+  {
+   "name": "vmess-145236",
+   "delay": 87
+  },
+  {
+   "name": "vmess-99558",
+   "delay": 88
+  },
+  {
+   "name": "vless-685581308",
+   "delay": 90
+  },
+  {
+   "name": "vless-1531019484",
+   "delay": 93
+  },
+  {
+   "name": "vless-1784851435",
+   "delay": 96
+  },
+  {
+   "name": "vless-479037275",
+   "delay": 100
   }
  ]
 }
