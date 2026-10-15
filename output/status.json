@@ -1,100 +1,102 @@
 {
- "generated_at": "2026-10-15T17:06:48Z",
+ "generated_at": "2026-10-15T21:28:28Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2887,
- "alive": 709,
+ "candidates": 2846,
+ "alive": 745,
  "github_ok": 60,
- "final": 709,
+ "final": 745,
  "by_protocol": {
   "hysteria2": 47,
-  "vmess": 37,
-  "ss": 180,
-  "vless": 345,
-  "trojan": 77,
-  "http": 21,
-  "anytls": 2
+  "vless": 375,
+  "ss": 184,
+  "vmess": 43,
+  "trojan": 68,
+  "http": 23,
+  "anytls": 3,
+  "hysteria": 1,
+  "socks5": 1
  },
  "top_github": [
   {
    "name": "hysteria2-1827145638",
-   "delay": 56
+   "delay": 19
   },
   {
-   "name": "vmess-1827156555",
-   "delay": 77
+   "name": "vless-1827530475",
+   "delay": 33
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0197",
-   "delay": 87
+   "name": "🇺🇸US-37.19.198.236-0148",
+   "delay": 50
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0190",
-   "delay": 91
+   "name": "🇺🇸US-37.19.198.160-0146",
+   "delay": 50
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0195",
-   "delay": 93
+   "name": "🇺🇸US-37.19.198.243-0145",
+   "delay": 51
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0198",
-   "delay": 94
+   "name": "🇺🇸US-37.19.198.244-0150",
+   "delay": 53
   },
   {
    "name": "vless-1827162788",
-   "delay": 101
-  },
-  {
-   "name": "vless-1827150021",
-   "delay": 103
-  },
-  {
-   "name": "vmess-1827158341",
-   "delay": 108
-  },
-  {
-   "name": "🇺🇸US-138.199.42.68-0113",
-   "delay": 124
-  },
-  {
-   "name": "🇨🇦 加拿大 | CAN #1",
-   "delay": 125
+   "delay": 66
   },
   {
    "name": "vless-1827154079",
-   "delay": 133
+   "delay": 66
   },
   {
-   "name": "vless-1827147365",
-   "delay": 138
+   "name": "vless-1828531441",
+   "delay": 68
   },
   {
-   "name": "vless-1827267306",
-   "delay": 138
+   "name": "vmess-1828293980",
+   "delay": 68
   },
   {
-   "name": "vless-1827155130",
-   "delay": 139
+   "name": "vless-1827152664",
+   "delay": 71
   },
   {
-   "name": "vless-1827155230",
-   "delay": 147
+   "name": "vless-1827530442",
+   "delay": 73
   },
   {
-   "name": "trojan-1827955817",
-   "delay": 151
+   "name": "vless-1828372208",
+   "delay": 75
   },
   {
    "name": "vless-1828372781",
-   "delay": 155
+   "delay": 79
   },
   {
-   "name": "shadowsocks-1827964140",
-   "delay": 157
+   "name": "vless-1827319128",
+   "delay": 83
   },
   {
-   "name": "🏁RELAY-104.17.147.222-0941",
-   "delay": 164
+   "name": "shadowsocks-1827147801",
+   "delay": 89
+  },
+  {
+   "name": "vless-1827147010",
+   "delay": 91
+  },
+  {
+   "name": "🇸🇬[www.v2nodes.com] vless-SG",
+   "delay": 93
+  },
+  {
+   "name": "vless-1828371779",
+   "delay": 101
+  },
+  {
+   "name": "🇨🇦CA-15.223.182.197-2185",
+   "delay": 103
   }
  ]
 }
