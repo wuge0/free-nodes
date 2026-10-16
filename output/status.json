@@ -1,100 +1,100 @@
 {
- "generated_at": "2026-10-16T21:16:07Z",
+ "generated_at": "2026-10-16T23:41:13Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3280,
- "alive": 727,
- "github_ok": 59,
- "final": 727,
+ "candidates": 3295,
+ "alive": 753,
+ "github_ok": 55,
+ "final": 753,
  "by_protocol": {
-  "hysteria2": 52,
-  "vless": 362,
-  "vmess": 42,
-  "ss": 185,
-  "http": 23,
-  "trojan": 58,
-  "anytls": 5
+  "vless": 360,
+  "hysteria2": 55,
+  "http": 16,
+  "vmess": 49,
+  "ss": 204,
+  "trojan": 63,
+  "anytls": 6
  },
  "top_github": [
   {
-   "name": "hysteria2-1828372556",
-   "delay": 53
+   "name": "vless-1828375774",
+   "delay": 59
   },
   {
    "name": "hysteria2-1827145259",
-   "delay": 55
-  },
-  {
-   "name": "vless-1828375774",
-   "delay": 56
+   "delay": 70
   },
   {
    "name": "vless-1831085969",
+   "delay": 71
+  },
+  {
+   "name": "vless-1828813767",
+   "delay": 71
+  },
+  {
+   "name": "US - zhuhai.uk 05",
    "delay": 75
   },
   {
    "name": "vmess-1827158010",
-   "delay": 78
-  },
-  {
-   "name": "vless-1828813767",
-   "delay": 81
+   "delay": 76
   },
   {
    "name": "🇺🇸US-173.244.56.9-0112",
-   "delay": 81
+   "delay": 77
   },
   {
-   "name": "hysteria2-1827145692",
-   "delay": 89
+   "name": "hysteria2-1827187993",
+   "delay": 84
   },
   {
-   "name": "US - zhuhai.uk 03",
-   "delay": 94
-  },
-  {
-   "name": "US - zhuhai.uk 10",
-   "delay": 95
-  },
-  {
-   "name": "hysteria2-1832765317",
-   "delay": 95
-  },
-  {
-   "name": "US - zhuhai.uk 11",
-   "delay": 96
-  },
-  {
-   "name": "hysteria2-1827145754",
-   "delay": 96
-  },
-  {
-   "name": "US - zhuhai.uk 09",
-   "delay": 97
-  },
-  {
-   "name": "US - zhuhai.uk 07",
-   "delay": 97
-  },
-  {
-   "name": "美国 043",
-   "delay": 98
-  },
-  {
-   "name": "US - zhuhai.uk",
-   "delay": 99
+   "name": "hysteria2-1828372350",
+   "delay": 88
   },
   {
    "name": "vless-1828141631",
-   "delay": 101
+   "delay": 94
+  },
+  {
+   "name": "vless-1827155009",
+   "delay": 104
+  },
+  {
+   "name": "vless-1828294368",
+   "delay": 105
+  },
+  {
+   "name": "美国 043",
+   "delay": 108
+  },
+  {
+   "name": "shadowsocks-1827962976",
+   "delay": 108
+  },
+  {
+   "name": "shadowsocks-1828227588",
+   "delay": 109
+  },
+  {
+   "name": "shadowsocks-1827963043",
+   "delay": 109
   },
   {
    "name": "美国 041",
-   "delay": 102
+   "delay": 112
   },
   {
-   "name": "US - zhuhai.uk 04",
-   "delay": 104
+   "name": "🇸🇬[www.v2nodes.com] vless-SG",
+   "delay": 116
+  },
+  {
+   "name": "美国 009",
+   "delay": 117
+  },
+  {
+   "name": "vmess-1835539921",
+   "delay": 134
   }
  ]
 }
