@@ -1,100 +1,101 @@
 {
- "generated_at": "2026-10-16T11:31:03Z",
+ "generated_at": "2026-10-16T16:44:43Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2816,
- "alive": 719,
- "github_ok": 58,
- "final": 719,
+ "candidates": 3458,
+ "alive": 832,
+ "github_ok": 55,
+ "final": 832,
  "by_protocol": {
-  "hysteria2": 50,
-  "ss": 194,
-  "vless": 347,
-  "vmess": 41,
-  "trojan": 61,
-  "http": 18,
-  "anytls": 8
+  "hysteria2": 51,
+  "ss": 190,
+  "vless": 359,
+  "vmess": 36,
+  "trojan": 63,
+  "http": 125,
+  "socks5": 2,
+  "anytls": 6
  },
  "top_github": [
   {
    "name": "hysteria2-1827145638",
-   "delay": 62
+   "delay": 73
   },
   {
    "name": "🇺🇸US-37.19.198.160-0126",
-   "delay": 112
-  },
-  {
-   "name": "🇺🇸US-37.19.198.244-0132",
-   "delay": 119
-  },
-  {
-   "name": "vless-1827149965",
-   "delay": 120
-  },
-  {
-   "name": "vmess-1827161912",
-   "delay": 125
+   "delay": 110
   },
   {
    "name": "🇺🇸US-37.19.198.236-0127",
-   "delay": 125
-  },
-  {
-   "name": "vless-1828531441",
-   "delay": 127
-  },
-  {
-   "name": "🇺🇸US-37.19.198.243-0125",
-   "delay": 129
-  },
-  {
-   "name": "vmess-1827158796",
-   "delay": 132
-  },
-  {
-   "name": "vless-1832690678",
-   "delay": 137
-  },
-  {
-   "name": "vless-1828656714",
-   "delay": 143
+   "delay": 110
   },
   {
    "name": "vless-1827156461",
-   "delay": 149
+   "delay": 114
+  },
+  {
+   "name": "🇺🇸US-37.19.198.243-0125",
+   "delay": 117
+  },
+  {
+   "name": "🇺🇸US-37.19.198.244-0132",
+   "delay": 125
   },
   {
    "name": "hysteria2-1832765317",
-   "delay": 150
+   "delay": 140
   },
   {
-   "name": "🇺🇸US-156.146.38.167-0073",
-   "delay": 153
-  },
-  {
-   "name": "🇺🇸US-156.146.38.170-0060",
+   "name": "vless-1827530442",
    "delay": 155
   },
   {
-   "name": "vmess-1827158296",
+   "name": "vmess-1832888537",
    "delay": 157
   },
   {
-   "name": "vless-1827188675",
-   "delay": 160
+   "name": "🇺🇸US-138.199.42.68-0057",
+   "delay": 161
   },
   {
-   "name": "vless-1827319128",
-   "delay": 163
+   "name": "vless-1827155230",
+   "delay": 162
   },
   {
-   "name": "🇺🇸US-173.244.56.6-0088",
+   "name": "vless-1832690678",
    "delay": 164
   },
   {
-   "name": "vless-1827150175",
-   "delay": 167
+   "name": "🇺🇸US-64.74.163.69-0182",
+   "delay": 165
+  },
+  {
+   "name": "vmess-1832181415",
+   "delay": 170
+  },
+  {
+   "name": "vless-1827533169",
+   "delay": 170
+  },
+  {
+   "name": "vless-1828372208",
+   "delay": 173
+  },
+  {
+   "name": "vless-1832887933",
+   "delay": 176
+  },
+  {
+   "name": "vless-1828531441",
+   "delay": 179
+  },
+  {
+   "name": "🇺🇸US-156.146.38.170-0060",
+   "delay": 180
+  },
+  {
+   "name": "🇺🇸US-156.146.38.168-0091",
+   "delay": 181
   }
  ]
 }
