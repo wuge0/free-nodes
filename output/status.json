@@ -1,101 +1,100 @@
 {
- "generated_at": "2026-10-16T16:44:43Z",
+ "generated_at": "2026-10-16T21:16:07Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3458,
- "alive": 832,
- "github_ok": 55,
- "final": 832,
+ "candidates": 3280,
+ "alive": 727,
+ "github_ok": 59,
+ "final": 727,
  "by_protocol": {
-  "hysteria2": 51,
-  "ss": 190,
-  "vless": 359,
-  "vmess": 36,
-  "trojan": 63,
-  "http": 125,
-  "socks5": 2,
-  "anytls": 6
+  "hysteria2": 52,
+  "vless": 362,
+  "vmess": 42,
+  "ss": 185,
+  "http": 23,
+  "trojan": 58,
+  "anytls": 5
  },
  "top_github": [
   {
-   "name": "hysteria2-1827145638",
-   "delay": 73
+   "name": "hysteria2-1828372556",
+   "delay": 53
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0126",
-   "delay": 110
+   "name": "hysteria2-1827145259",
+   "delay": 55
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0127",
-   "delay": 110
+   "name": "vless-1828375774",
+   "delay": 56
   },
   {
-   "name": "vless-1827156461",
-   "delay": 114
+   "name": "vless-1831085969",
+   "delay": 75
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0125",
-   "delay": 117
+   "name": "vmess-1827158010",
+   "delay": 78
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0132",
-   "delay": 125
+   "name": "vless-1828813767",
+   "delay": 81
+  },
+  {
+   "name": "🇺🇸US-173.244.56.9-0112",
+   "delay": 81
+  },
+  {
+   "name": "hysteria2-1827145692",
+   "delay": 89
+  },
+  {
+   "name": "US - zhuhai.uk 03",
+   "delay": 94
+  },
+  {
+   "name": "US - zhuhai.uk 10",
+   "delay": 95
   },
   {
    "name": "hysteria2-1832765317",
-   "delay": 140
+   "delay": 95
   },
   {
-   "name": "vless-1827530442",
-   "delay": 155
+   "name": "US - zhuhai.uk 11",
+   "delay": 96
   },
   {
-   "name": "vmess-1832888537",
-   "delay": 157
+   "name": "hysteria2-1827145754",
+   "delay": 96
   },
   {
-   "name": "🇺🇸US-138.199.42.68-0057",
-   "delay": 161
+   "name": "US - zhuhai.uk 09",
+   "delay": 97
   },
   {
-   "name": "vless-1827155230",
-   "delay": 162
+   "name": "US - zhuhai.uk 07",
+   "delay": 97
   },
   {
-   "name": "vless-1832690678",
-   "delay": 164
+   "name": "美国 043",
+   "delay": 98
   },
   {
-   "name": "🇺🇸US-64.74.163.69-0182",
-   "delay": 165
+   "name": "US - zhuhai.uk",
+   "delay": 99
   },
   {
-   "name": "vmess-1832181415",
-   "delay": 170
+   "name": "vless-1828141631",
+   "delay": 101
   },
   {
-   "name": "vless-1827533169",
-   "delay": 170
+   "name": "美国 041",
+   "delay": 102
   },
   {
-   "name": "vless-1828372208",
-   "delay": 173
-  },
-  {
-   "name": "vless-1832887933",
-   "delay": 176
-  },
-  {
-   "name": "vless-1828531441",
-   "delay": 179
-  },
-  {
-   "name": "🇺🇸US-156.146.38.170-0060",
-   "delay": 180
-  },
-  {
-   "name": "🇺🇸US-156.146.38.168-0091",
-   "delay": 181
+   "name": "US - zhuhai.uk 04",
+   "delay": 104
   }
  ]
 }
