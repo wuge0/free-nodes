@@ -1,295 +1,49 @@
 proxies:
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1827533219
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0
-    short-id: 4477382ff6d3d41c
-  server: 51.81.203.63
-  servername: www.icloud.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: cb2dbb6a-a1ea-4023-9ace-6466cee57241
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1828373750
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0
-    short-id: 4477382ff6d3d41c
-  server: 51.81.203.63
-  servername: www.icloud.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: cb2dbb6a-a1ea-4023-9ace-6466cee57241
-- name: hysteria2-1827145754
-  password: 099830134df5ac3a04a4b21d39b8c395
-  port: 50160
-  server: 163.192.14.135
+- name: hysteria2-1830343753
+  password: 4291c983-c520-46ac-82cc-48f14bef573f
+  port: 35013
+  server: 129.213.91.185
   skip-cert-verify: true
-  sni: vk.com
+  sni: 129.213.91.185
   type: hysteria2
-- name: hysteria2-1827145692
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: hy2.123266.xyz
-  skip-cert-verify: false
-  sni: hy2.123266.xyz
-  type: hysteria2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1827151191
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM
-    short-id: 21270a66
-  server: 44.248.233.99
-  servername: aws.amazon.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 37615d66-5467-44a3-bc23-f2c3bef7f761
-- name: hysteria2-1828372350
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: 155.248.209.237
-  skip-cert-verify: true
-  sni: 155.248.209.2
-  type: hysteria2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1827151298
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM
-    short-id: 21270a66
-  server: tk1.high-speed-test-56424.me
-  servername: aws.amazon.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 37615d66-5467-44a3-bc23-f2c3bef7f761
-- name: hysteria2-1827145278
-  password: dongtaiwang.com
-  port: 44356
-  server: hy2.561891.xyz
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
-  type: hysteria2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1827706338
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM
-    short-id: 21270a66
-  server: 44.248.233.99
-  servername: aws.amazon.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 37615d66-5467-44a3-bc23-f2c3bef7f761
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1827151179
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM
-    short-id: 21270a66
-  server: tk1.high-speed-test-56424.me
-  servername: aws.amazon.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 37615d66-5467-44a3-bc23-f2c3bef7f761
 - alterId: 0
   cipher: auto
-  name: vmess-1827158010
-  network: none
-  port: 26421
-  server: 154.64.239.22
-  type: vmess
-  udp: true
-  uuid: 9fa732d6-dcd6-47bb-c255-094bad71765d
-- alterId: 0
-  cipher: auto
-  name: vmess-1844263162
-  network: tcp
-  port: 26421
-  server: 154.64.239.22
-  type: vmess
-  udp: true
-  uuid: 9fa732d6-dcd6-47bb-c255-094bad71765d
-- alterId: 0
-  cipher: auto
-  name: vmess-1827160914
-  network: tcp
-  port: 18000
-  server: 169.197.142.22
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: auto
-  name: vmess-1837386119
-  network: raw
-  port: 18000
-  server: 169.197.142.22
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- name: 🇺🇸US-216.105.168.18-0164
-  type: ss
-  server: 216.105.168.18
-  port: 443
-  cipher: chacha20-ietf-poly1305
-  password: hCCWOcIsK5wrFz4OX70rWf
-- name: hysteria2-1832764823
-  password: gf1:gfhysteria2024
-  port: 443
-  server: 66.94.121.46
-  skip-cert-verify: true
-  sni: www.broadcom.com
-  type: hysteria2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1844558704
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: Tp015Ga5LodBwKs4z7Wz4hTvqeh8-4q1EQPZqvZfWR0
-    short-id: ad09494d431b2b92
-  server: 67.209.184.133
-  servername: www.bing.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 96ebc166-565c-474f-9712-7990b55c368a
-- name: 🇺🇸US-173.244.56.9-0112
-  type: ss
-  server: 173.244.56.9
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-173.244.56.6-0102
-  type: ss
-  server: 173.244.56.6
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- cipher: rc4-md5
-  name: shadowsocks-1827963904
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 138.199.43.159
-  type: ss
-  udp: true
-- name: 🇺🇸 美国 | USA 10
-  server: t17.qifei.app
-  port: 443
-  type: vless
-  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
-  tls: true
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
-    short-id: 1a
-  servername: www.amazon.com
-  client-fingerprint: ios
-  network: tcp
-  udp: true
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1844560418
-  network: tcp
-  port: 42346
-  reality-opts:
-    public-key: fk0_CYMC_RKIbBDwS-lagle8Jm-hnvkSlV_7P0nBagM
-    short-id: 3f8ced2bf06b8448
-  server: 176.122.183.26
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: d5bc1380-2afd-4c7e-bacd-54e7833b0140
-- name: US - zhuhai.uk 02
-  type: http
-  server: 138.199.35.201
-  port: 9002
-  tls: true
-  sni: 138.199.35.201
-  skip-cert-verify: true
-- name: US - zhuhai.uk 04
-  type: http
-  server: 138.199.35.200
-  port: 9002
-  tls: true
-  skip-cert-verify: true
-- alterId: 0
-  cipher: auto
-  name: vmess-1828338232
-  network: raw
-  port: 18000
-  server: 84.17.41.2
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: auto
-  name: vmess-1842123401
-  network: tcp
-  port: 18000
-  server: 84.17.41.2
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: aes-128-gcm
-  name: vmess-1837386246
+  name: vmess-1827156555
   network: tcp
   port: 18000
   server: 67.220.95.3
   type: vmess
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- name: 🇺🇸 美国 | USA 9
-  server: 35.90.209.22
-  port: 443
-  type: vless
-  uuid: 7060231d-b9ba-495f-a218-bf427940cf3e
-  tls: false
-  network: http
-  http-opts:
-    method: GET
-    path:
-    - /
-    headers:
-      Host:
-      - play.googleapis.com
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: vless-1827155009
+  name: vless-1844587393
   network: tcp
   port: 443
   reality-opts:
-    public-key: StPbcmBuzpuYUfa4oZ5SI3Bq1OSF_-oU1vp2AcyvQVE
-    short-id: 19296c9f1bf9c7b1
-  server: 195.123.240.65
+    public-key: Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc
+    short-id: ''
+  server: 47.253.226.114
   servername: www.cloudflare.com
   tls: true
   type: vless
   udp: true
-  uuid: ce18d0eb-5c71-41f9-96e5-1632e22456e4
+  uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413
+- alterId: 0
+  cipher: auto
+  name: vmess-1828339141
+  network: raw
+  port: 18000
+  server: 67.220.95.3
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: 🇺🇸US-37.19.198.243-0154
+  type: ss
+  server: 37.19.198.243
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
 - alterId: 0
   cipher: aes-128-gcm
   name: vmess-1837386222
@@ -299,85 +53,42 @@ proxies:
   type: vmess
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- cipher: rc4-md5
-  name: shadowsocks-1827963676
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 107.155.57.51
+- name: 🇺🇸US-198.98.53.130-0183
   type: ss
-  udp: true
-- cipher: rc4-md5
-  name: shadowsocks-1827963705
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 107.155.57.11
-  type: ss
-  udp: true
-- name: 🇺🇸US-37.19.198.243-0058
-  type: ss
-  server: 37.19.198.243
+  server: 198.98.53.130
   port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-37.19.198.160-0060
-  type: ss
-  server: 37.19.198.160
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- client-fingerprint: ios
-  flow: xtls-rprx-vision
-  name: vless-1831114293
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: StPbcmBuzpuYUfa4oZ5SI3Bq1OSF_-oU1vp2AcyvQVE
-    short-id: 19296c9f1bf9c7b1
-  server: 195.123.240.65
-  servername: www.cloudflare.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: ce18d0eb-5c71-41f9-96e5-1632e22456e4
-- cipher: rc4-md5
-  name: shadowsocks-1827962976
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 107.151.182.197
-  type: ss
-  udp: true
-- name: 🇺🇸US-37.19.198.236-0059
-  type: ss
-  server: 37.19.198.236
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇸🇬[www.v2nodes.com] vless-SG
-  type: vless
-  server: 172.64.152.241
-  port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
-  udp: true
-  tls: true
-  servername: ccc.010304.xyz
-  network: ws
-  ws-opts:
-    path: /fp=chromesecurity=tls
-    headers:
-      Host: ccc.010304.xyz
-- name: 🇺🇸US-37.19.198.244-0057
+  cipher: chacha20-ietf-poly1305
+  password: eDfN7SODQceIOmIAbtJJtK
+- name: 🇺🇸US-37.19.198.244-0152
   type: ss
   server: 37.19.198.244
   port: 443
   cipher: aes-128-gcm
   password: shadowsocks
-- cipher: rc4-md5
-  name: shadowsocks-1827963043
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 107.151.182.253
+- name: 🇺🇸US-37.19.198.160-0124
   type: ss
+  server: 37.19.198.160
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- alterId: 0
+  cipher: aes-128-gcm
+  name: vmess-1837386246
+  network: tcp
+  port: 18000
+  server: 67.220.95.3
+  type: vmess
   udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- alterId: 0
+  cipher: auto
+  name: vmess-1842123403
+  network: tcp
+  port: 18000
+  server: 67.220.85.46
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
 - alterId: 0
   cipher: aes-128-gcm
   name: vmess-1837386056
@@ -387,89 +98,6 @@ proxies:
   type: vmess
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- name: 🇨🇦CA-149.22.95.183-0101
-  type: ss
-  server: 149.22.95.183
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- cipher: 2022-blake3-aes-128-gcm
-  name: shadowsocks-1833693373
-  password: jr+T2RS0sCHBmC4u6aY6Vg==
-  port: 30832
-  server: 172.86.108.79
-  type: ss
-  udp: true
-- name: hysteria2-1827145259
-  password: dongtaiwang.com
-  port: 44356
-  server: 142.249.37.90
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
-  type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: vmess-1827161912
-  network: tcp
-  port: 18000
-  server: 67.220.85.46
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- cipher: rc4-md5
-  name: shadowsocks-1828227588
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 79.110.53.169
-  type: ss
-  udp: true
-- name: 🇺🇸US-156.146.38.169-0093
-  type: ss
-  server: 156.146.38.169
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- alterId: 0
-  cipher: auto
-  name: vmess-1837386484
-  network: raw
-  port: 18000
-  server: 134.195.196.211
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- name: 🇺🇸US-156.146.38.170-0075
-  type: ss
-  server: 156.146.38.170
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.167-0069
-  type: ss
-  server: 156.146.38.167
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1828293798
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: ZxdYEReKF-M_vIMpZWVMHf7ixDZmzIg-6Xt7IzstgwE
-    short-id: 16e300b06a6a7413
-  server: 131.143.180.87
-  servername: www.logitech.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: c7282af7-a52f-4a65-af60-ae5852f2bf36
-- name: 🇺🇸US-156.146.38.168-0063
-  type: ss
-  server: 156.146.38.168
-  port: 443
-  cipher: aes-128-gcm
-  password: shadowsocks
 - alterId: 0
   cipher: auto
   name: vmess-1827158796
@@ -479,188 +107,612 @@ proxies:
   type: vmess
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- name: 🇺🇸US-138.199.42.68-0092
+- name: vless-1828531441
+  network: raw
+  port: 45299
+  server: 104.243.33.154
+  type: vless
+  udp: true
+  uuid: 261f011c-e97a-4d72-b596-e6329b50b47b
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827155046
+  network: tcp
+  port: 36925
+  reality-opts:
+    public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
+    short-id: ''
+  server: ww9.levikogjgfdd.ir
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827530442
+  network: tcp
+  port: 28190
+  reality-opts:
+    public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
+    short-id: ''
+  server: 159.89.87.21
+  servername: aws.amazon.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
+- name: vless-1827149965
+  network: tcp
+  port: 45299
+  server: 104.243.33.154
+  type: vless
+  udp: true
+  uuid: 261f011c-e97a-4d72-b596-e6329b50b47b
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1828372208
+  network: raw
+  port: 28190
+  reality-opts:
+    public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
+    short-id: ''
+  server: 159.89.87.21
+  servername: aws.amazon.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827533169
+  network: tcp
+  port: 36925
+  reality-opts:
+    public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
+    short-id: ''
+  server: 137.184.218.169
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827155130
+  network: raw
+  port: 36925
+  reality-opts:
+    public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
+    short-id: ''
+  server: ww9.levikogjgfdd.ir
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
+- name: 🇸🇬[www.v2nodes.com] vless-SG
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
+  udp: true
+  tls: true
+  servername: ccc.010304.xyz
+  network: ws
+  ws-opts:
+    path: /fpsecurity=tls
+    headers:
+      Host: ccc.010304.xyz
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1828372781
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk
+    short-id: 0990d22f
+  server: 167.17.69.171
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00144519-7e0d-476b-8d28-435576af9262
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827319128
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk
+    short-id: 0990d22f
+  server: 167.17.69.171
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00144519-7e0d-476b-8d28-435576af9262
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827155230
+  network: raw
+  port: 36925
+  reality-opts:
+    public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
+    short-id: ''
+  server: 137.184.218.169
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
+- name: trojan-1827613948
+  password: nwilryafgkyvuxauc8pz
+  port: 50875
+  server: 69.164.240.85
+  skip-cert-verify: true
+  sni: ''
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1831098551
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.90
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- cipher: aes-256-cfb
+  name: shadowsocks-1846612845
+  password: amazonskr05
+  port: 443
+  server: 18.226.185.149
+  type: ss
+  udp: true
+- name: 🇺🇸US-64.74.163.69-0091
+  type: ss
+  server: 64.74.163.69
+  port: 18766
+  cipher: aes-128-gcm
+  password: 4efe1af272e7292139b889f6a63ee071
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: vless-1827147165
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.173
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827150021
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA
+    short-id: 9c56fddf237e8eaf
+  server: 195.211.98.43
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1b4b11d5-4c2d-4533-9a55-636757cdee94
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827147668
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.74
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: vless-1828373369
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.225
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- name: 🇺🇸US-37.19.198.236-0155
+  type: ss
+  server: 37.19.198.236
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: vless-1827146910
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.231
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827155691
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.75
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- alterId: 0
+  cipher: auto
+  name: vmess-1827533791
+  network: tcp
+  port: 18000
+  server: 38.110.1.246
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: 🇺🇸US-138.199.42.68-0065
   type: ss
   server: 138.199.42.68
   port: 8080
   cipher: rc4-md5
   password: 14fFPrbezE3HDZzsMOr6
 - cipher: rc4-md5
-  name: shadowsocks-1827969041
+  name: shadowsocks-1827964140
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
-  server: 23.251.121.242
+  server: 138.197.141.58
   type: ss
   udp: true
-- name: 🇺🇸US-15.204.247.206-0171
+- alterId: 0
+  cipher: auto
+  name: vmess-1837386117
+  network: raw
+  port: 18000
+  server: 38.91.107.49
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: 🇺🇸US-156.146.38.167-0063
   type: ss
-  server: 15.204.247.206
-  port: 4444
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-- name: 🇨🇦CA-51.222.136.236-0148
+  server: 156.146.38.167
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- alterId: 0
+  cipher: auto
+  name: vmess-1842123405
+  network: tcp
+  port: 18000
+  server: 38.91.107.49
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: 🇺🇸US-156.146.38.169-0088
   type: ss
-  server: 51.222.136.236
-  port: 8882
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
+  server: 156.146.38.169
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: vless-1832754543
+  name: vless-1827147365
   network: tcp
-  port: 18662
+  port: 443
   reality-opts:
-    public-key: k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0
-    short-id: 48050fab
-  server: 67.220.73.204
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.95
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- name: 🇺🇸US-156.146.38.168-0079
+  type: ss
+  server: 156.146.38.168
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-156.146.38.170-0070
+  type: ss
+  server: 156.146.38.170
+  port: 443
+  cipher: aes-128-gcm
+  password: shadowsocks
+- alterId: 0
+  cipher: auto
+  name: vmess-1827158946
+  network: raw
+  port: 18000
+  server: 38.110.1.246
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: 🇨🇦CA-137.184.174.93-0064
+  type: ss
+  server: 137.184.174.93
+  port: 8080
+  cipher: rc4-md5
+  password: 14fFPrbezE3HDZzsMOr6
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1828293998
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: EVhq2BxKuw2Cody1DmF_HPvUYKwzdXbHP47blUv-eRM
+    short-id: 55ab5559e3a6d10a
+  server: 5.34.178.120
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9063f9fb-e88a-4ee0-b4a4-a92ca7316a9f
+- cipher: aes-256-gcm
+  name: shadowsocks-1827147801
+  password: kDWvXYZoTBcGkC4
+  port: 8882
+  server: 15.204.233.41
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827149751
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To
+    short-id: a3a578ab
+  server: 185.95.231.156
   servername: www.apple.com
   tls: true
   type: vless
   udp: true
-  uuid: 814bd064-544d-4255-a070-5705c03f6da9
+  uuid: 1f8cf47a-b66a-4916-979f-26edfcf44eea
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: vless-1831093861
-  network: tcp
+  name: vless-1828373905
+  network: raw
   port: 443
   reality-opts:
-    public-key: XY0OTrgnRWxHbqBC8u4qFWvZakjNZY83AAnL_lwHu1M
-    short-id: 7f
-  server: 154.40.55.185
-  servername: www.oracle.com
+    public-key: 8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To
+    short-id: a3a578ab
+  server: 185.95.231.156
+  servername: www.apple.com
   tls: true
   type: vless
   udp: true
-  uuid: 52919204-4ed9-42c8-97a0-0f01d007f898
+  uuid: 1f8cf47a-b66a-4916-979f-26edfcf44eea
+- client-fingerprint: random
+  name: vless-1828531993
+  network: tcp
+  port: 2053
+  reality-opts:
+    public-key: k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU
+    short-id: 83f8317a948bb769
+  server: 66.70.179.198
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: dc620cd6-a9d8-4a0f-8f18-006b895db77e
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1835060901
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: H3R3BUAl7thrIZsznTbb-eRREIjQOH2f3WO0oTN7OGY
+    short-id: a0e2a6074c6456b0
+  server: 195.123.235.183
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c14ec728-3eca-4750-87fc-fd1e6aeb81d5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827533201
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.232
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- name: 🇨🇦CA-51.222.155.113-0200
+  type: ss
+  server: 51.222.155.113
+  port: 5601
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1827146914
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.184
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: vless-1828373732
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.89
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
 proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies:
   - ♻️ 自动选择
-  - vless-1827533219
-  - vless-1828373750
-  - hysteria2-1827145754
-  - hysteria2-1827145692
-  - vless-1827151191
-  - hysteria2-1828372350
-  - vless-1827151298
-  - hysteria2-1827145278
-  - vless-1827706338
-  - vless-1827151179
-  - vmess-1827158010
-  - vmess-1844263162
-  - vmess-1827160914
-  - vmess-1837386119
-  - 🇺🇸US-216.105.168.18-0164
-  - hysteria2-1832764823
-  - vless-1844558704
-  - 🇺🇸US-173.244.56.9-0112
-  - 🇺🇸US-173.244.56.6-0102
-  - shadowsocks-1827963904
-  - 🇺🇸 美国 | USA 10
-  - vless-1844560418
-  - US - zhuhai.uk 02
-  - US - zhuhai.uk 04
-  - vmess-1828338232
-  - vmess-1842123401
-  - vmess-1837386246
-  - 🇺🇸 美国 | USA 9
-  - vless-1827155009
+  - hysteria2-1830343753
+  - vmess-1827156555
+  - vless-1844587393
+  - vmess-1828339141
+  - 🇺🇸US-37.19.198.243-0154
   - vmess-1837386222
-  - shadowsocks-1827963676
-  - shadowsocks-1827963705
-  - 🇺🇸US-37.19.198.243-0058
-  - 🇺🇸US-37.19.198.160-0060
-  - vless-1831114293
-  - shadowsocks-1827962976
-  - 🇺🇸US-37.19.198.236-0059
-  - 🇸🇬[www.v2nodes.com] vless-SG
-  - 🇺🇸US-37.19.198.244-0057
-  - shadowsocks-1827963043
+  - 🇺🇸US-198.98.53.130-0183
+  - 🇺🇸US-37.19.198.244-0152
+  - 🇺🇸US-37.19.198.160-0124
+  - vmess-1837386246
+  - vmess-1842123403
   - vmess-1837386056
-  - 🇨🇦CA-149.22.95.183-0101
-  - shadowsocks-1833693373
-  - hysteria2-1827145259
-  - vmess-1827161912
-  - shadowsocks-1828227588
-  - 🇺🇸US-156.146.38.169-0093
-  - vmess-1837386484
-  - 🇺🇸US-156.146.38.170-0075
-  - 🇺🇸US-156.146.38.167-0069
-  - vless-1828293798
-  - 🇺🇸US-156.146.38.168-0063
   - vmess-1827158796
-  - 🇺🇸US-138.199.42.68-0092
-  - shadowsocks-1827969041
-  - 🇺🇸US-15.204.247.206-0171
-  - 🇨🇦CA-51.222.136.236-0148
-  - vless-1832754543
-  - vless-1831093861
+  - vless-1828531441
+  - vless-1827155046
+  - vless-1827530442
+  - vless-1827149965
+  - vless-1828372208
+  - vless-1827533169
+  - vless-1827155130
+  - 🇸🇬[www.v2nodes.com] vless-SG
+  - vless-1828372781
+  - vless-1827319128
+  - vless-1827155230
+  - trojan-1827613948
+  - vless-1831098551
+  - shadowsocks-1846612845
+  - 🇺🇸US-64.74.163.69-0091
+  - vless-1827147165
+  - vless-1827150021
+  - vless-1827147668
+  - vless-1828373369
+  - 🇺🇸US-37.19.198.236-0155
+  - vless-1827146910
+  - vless-1827155691
+  - vmess-1827533791
+  - 🇺🇸US-138.199.42.68-0065
+  - shadowsocks-1827964140
+  - vmess-1837386117
+  - 🇺🇸US-156.146.38.167-0063
+  - vmess-1842123405
+  - 🇺🇸US-156.146.38.169-0088
+  - vless-1827147365
+  - 🇺🇸US-156.146.38.168-0079
+  - 🇺🇸US-156.146.38.170-0070
+  - vmess-1827158946
+  - 🇨🇦CA-137.184.174.93-0064
+  - vless-1828293998
+  - shadowsocks-1827147801
+  - vless-1827149751
+  - vless-1828373905
+  - vless-1828531993
+  - vless-1835060901
+  - vless-1827533201
+  - 🇨🇦CA-51.222.155.113-0200
+  - vless-1827146914
+  - vless-1828373732
 - name: ♻️ 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - vless-1827533219
-  - vless-1828373750
-  - hysteria2-1827145754
-  - hysteria2-1827145692
-  - vless-1827151191
-  - hysteria2-1828372350
-  - vless-1827151298
-  - hysteria2-1827145278
-  - vless-1827706338
-  - vless-1827151179
-  - vmess-1827158010
-  - vmess-1844263162
-  - vmess-1827160914
-  - vmess-1837386119
-  - 🇺🇸US-216.105.168.18-0164
-  - hysteria2-1832764823
-  - vless-1844558704
-  - 🇺🇸US-173.244.56.9-0112
-  - 🇺🇸US-173.244.56.6-0102
-  - shadowsocks-1827963904
-  - 🇺🇸 美国 | USA 10
-  - vless-1844560418
-  - US - zhuhai.uk 02
-  - US - zhuhai.uk 04
-  - vmess-1828338232
-  - vmess-1842123401
-  - vmess-1837386246
-  - 🇺🇸 美国 | USA 9
-  - vless-1827155009
+  - hysteria2-1830343753
+  - vmess-1827156555
+  - vless-1844587393
+  - vmess-1828339141
+  - 🇺🇸US-37.19.198.243-0154
   - vmess-1837386222
-  - shadowsocks-1827963676
-  - shadowsocks-1827963705
-  - 🇺🇸US-37.19.198.243-0058
-  - 🇺🇸US-37.19.198.160-0060
-  - vless-1831114293
-  - shadowsocks-1827962976
-  - 🇺🇸US-37.19.198.236-0059
-  - 🇸🇬[www.v2nodes.com] vless-SG
-  - 🇺🇸US-37.19.198.244-0057
-  - shadowsocks-1827963043
+  - 🇺🇸US-198.98.53.130-0183
+  - 🇺🇸US-37.19.198.244-0152
+  - 🇺🇸US-37.19.198.160-0124
+  - vmess-1837386246
+  - vmess-1842123403
   - vmess-1837386056
-  - 🇨🇦CA-149.22.95.183-0101
-  - shadowsocks-1833693373
-  - hysteria2-1827145259
-  - vmess-1827161912
-  - shadowsocks-1828227588
-  - 🇺🇸US-156.146.38.169-0093
-  - vmess-1837386484
-  - 🇺🇸US-156.146.38.170-0075
-  - 🇺🇸US-156.146.38.167-0069
-  - vless-1828293798
-  - 🇺🇸US-156.146.38.168-0063
   - vmess-1827158796
-  - 🇺🇸US-138.199.42.68-0092
-  - shadowsocks-1827969041
-  - 🇺🇸US-15.204.247.206-0171
-  - 🇨🇦CA-51.222.136.236-0148
-  - vless-1832754543
-  - vless-1831093861
+  - vless-1828531441
+  - vless-1827155046
+  - vless-1827530442
+  - vless-1827149965
+  - vless-1828372208
+  - vless-1827533169
+  - vless-1827155130
+  - 🇸🇬[www.v2nodes.com] vless-SG
+  - vless-1828372781
+  - vless-1827319128
+  - vless-1827155230
+  - trojan-1827613948
+  - vless-1831098551
+  - shadowsocks-1846612845
+  - 🇺🇸US-64.74.163.69-0091
+  - vless-1827147165
+  - vless-1827150021
+  - vless-1827147668
+  - vless-1828373369
+  - 🇺🇸US-37.19.198.236-0155
+  - vless-1827146910
+  - vless-1827155691
+  - vmess-1827533791
+  - 🇺🇸US-138.199.42.68-0065
+  - shadowsocks-1827964140
+  - vmess-1837386117
+  - 🇺🇸US-156.146.38.167-0063
+  - vmess-1842123405
+  - 🇺🇸US-156.146.38.169-0088
+  - vless-1827147365
+  - 🇺🇸US-156.146.38.168-0079
+  - 🇺🇸US-156.146.38.170-0070
+  - vmess-1827158946
+  - 🇨🇦CA-137.184.174.93-0064
+  - vless-1828293998
+  - shadowsocks-1827147801
+  - vless-1827149751
+  - vless-1828373905
+  - vless-1828531993
+  - vless-1835060901
+  - vless-1827533201
+  - 🇨🇦CA-51.222.155.113-0200
+  - vless-1827146914
+  - vless-1828373732
 rules:
 - GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择
