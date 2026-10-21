@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-10-20T23:56:51Z",
+ "generated_at": "2026-10-21T11:57:09Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2527,
- "alive": 508,
+ "candidates": 2565,
+ "alive": 511,
  "github_ok": 60,
- "final": 508,
+ "final": 511,
  "by_protocol": {
-  "hysteria2": 35,
-  "ss": 177,
+  "hysteria2": 40,
+  "ss": 167,
+  "vless": 208,
   "vmess": 37,
-  "http": 15,
-  "vless": 203,
   "trojan": 37,
-  "socks5": 1,
-  "anytls": 3
+  "http": 18,
+  "socks5": 2,
+  "anytls": 2
  },
  "top_github": [
   {
    "name": "hysteria2-1853331471",
-   "delay": 24
+   "delay": 23
   },
   {
    "name": "shadowsocks-1875023016",
-   "delay": 26
-  },
-  {
-   "name": "vmess-1837386185",
-   "delay": 32
+   "delay": 29
   },
   {
    "name": "shadowsocks-1875022945",
-   "delay": 51
+   "delay": 48
   },
   {
-   "name": "US - zhuhai.uk",
-   "delay": 53
-  },
-  {
-   "name": "🇺🇸US-37.19.198.160-0056",
+   "name": "🇺🇸US-37.19.198.243-0058",
    "delay": 62
   },
   {
+   "name": "🇺🇸US-37.19.198.160-0056",
+   "delay": 68
+  },
+  {
    "name": "🇺🇸US-37.19.198.244-0055",
-   "delay": 67
+   "delay": 68
   },
   {
    "name": "🇺🇸US-37.19.198.236-0057",
-   "delay": 69
+   "delay": 68
   },
   {
-   "name": "shadowsocks-1875023024",
+   "name": "🇺🇸[www.v2nodes.com] ss-US-1602...",
    "delay": 70
   },
   {
-   "name": "vless-1853462658",
-   "delay": 78
+   "name": "🇳🇱 荷兰 | NLD #2",
+   "delay": 74
   },
   {
-   "name": "vless-1844587898",
-   "delay": 80
-  },
-  {
-   "name": "🇮🇹[www.v2nodes.com] vless-IT-1... #2",
-   "delay": 80
+   "name": "vless-1828656714",
+   "delay": 77
   },
   {
    "name": "shadowsocks-1827146718",
-   "delay": 81
-  },
-  {
-   "name": "vmess-1853361191",
-   "delay": 83
-  },
-  {
-   "name": "🇺🇸 美国 | USA #1",
-   "delay": 83
+   "delay": 79
   },
   {
    "name": "vless-1867109440",
+   "delay": 80
+  },
+  {
+   "name": "vmess-1837386056",
+   "delay": 82
+  },
+  {
+   "name": "vless-1881069157",
+   "delay": 82
+  },
+  {
+   "name": "vmess-1853359095",
+   "delay": 87
+  },
+  {
+   "name": "shadowsocks-1875023047",
    "delay": 89
   },
   {
-   "name": "shadowsocks-1874175732",
+   "name": "vmess-1837386076",
    "delay": 89
   },
   {
-   "name": "🇸🇬[www.v2nodes.com] vless-SG",
-   "delay": 89
+   "name": "vless-1828372781",
+   "delay": 90
   },
   {
-   "name": "vless-1869872045",
+   "name": "trojan-1827613948",
+   "delay": 91
+  },
+  {
+   "name": "🇸🇬[www.v2nodes.com] vless-SG #3",
    "delay": 92
-  },
-  {
-   "name": "vless-1853488215",
-   "delay": 95
   }
  ]
 }
