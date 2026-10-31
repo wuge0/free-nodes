@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-10-31T12:40:57Z",
+ "generated_at": "2026-10-31T19:21:39Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3430,
- "alive": 613,
- "github_ok": 60,
- "final": 613,
+ "candidates": 3438,
+ "alive": 659,
+ "github_ok": 59,
+ "final": 659,
  "by_protocol": {
-  "hysteria2": 41,
-  "ss": 165,
-  "vless": 203,
-  "vmess": 46,
-  "trojan": 138,
-  "http": 18,
-  "anytls": 1,
-  "socks5": 1
+  "hysteria2": 39,
+  "ss": 161,
+  "vless": 226,
+  "socks5": 2,
+  "trojan": 168,
+  "vmess": 49,
+  "http": 12,
+  "anytls": 2
  },
  "top_github": [
   {
    "name": "hysteria2-1853331471",
-   "delay": 69
-  },
-  {
-   "name": "🇺🇸US-185.230.230.18-0087",
-   "delay": 87
-  },
-  {
-   "name": "🇺🇸US-37.19.198.243-0166",
-   "delay": 110
-  },
-  {
-   "name": "🇺🇸US-37.19.198.160-0168",
-   "delay": 119
-  },
-  {
-   "name": "🇺🇸US-198.98.53.130-0210",
-   "delay": 120
+   "delay": 22
   },
   {
    "name": "🇺🇸US-45.86.51.18-0112",
-   "delay": 126
+   "delay": 27
   },
   {
-   "name": "vless-1883103905",
-   "delay": 141
+   "name": "🇺🇸US-185.230.230.18-0087",
+   "delay": 47
   },
   {
-   "name": "vmess-1828338235",
-   "delay": 141
+   "name": "美国 022",
+   "delay": 51
+  },
+  {
+   "name": "美国 059",
+   "delay": 52
   },
   {
    "name": "🇺🇸US-193.151.163.18-0085",
-   "delay": 148
+   "delay": 56
   },
   {
-   "name": "vless-1827150021",
-   "delay": 152
+   "name": "🇸🇬[www.v2nodes.com] vless-SG-8... #1",
+   "delay": 59
   },
   {
-   "name": "vless-1854337870",
-   "delay": 158
-  },
-  {
-   "name": "美国 258",
-   "delay": 162
-  },
-  {
-   "name": "vless-1853988211",
-   "delay": 162
-  },
-  {
-   "name": "vless-1835060901",
-   "delay": 163
-  },
-  {
-   "name": "🇺🇸US-156.146.38.168-0187",
-   "delay": 166
-  },
-  {
-   "name": "vmess-1827158796",
-   "delay": 168
+   "name": "🇺🇸 美国 | USA #4",
+   "delay": 59
   },
   {
    "name": "🇺🇸US-37.19.198.244-0165",
-   "delay": 170
+   "delay": 60
   },
   {
-   "name": "vmess-1853361191",
-   "delay": 170
+   "name": "🇸🇬[www.v2nodes.com] vless-SG-8...",
+   "delay": 60
+  },
+  {
+   "name": "美国 005",
+   "delay": 61
+  },
+  {
+   "name": "🇺🇸US-37.19.198.243-0166",
+   "delay": 62
+  },
+  {
+   "name": "🇺🇸US-37.19.198.160-0168",
+   "delay": 62
+  },
+  {
+   "name": "美国 002",
+   "delay": 65
+  },
+  {
+   "name": "🇺🇸 美国 | USA #2",
+   "delay": 66
+  },
+  {
+   "name": "美国 007",
+   "delay": 66
+  },
+  {
+   "name": "vless-1854337870",
+   "delay": 77
+  },
+  {
+   "name": "vless-1853988211",
+   "delay": 81
   },
   {
    "name": "vless-1853350171",
-   "delay": 171
+   "delay": 81
   },
   {
-   "name": "🇺🇸US-216.152.155.158-0097",
-   "delay": 173
+   "name": "vless-1883549617",
+   "delay": 81
   }
  ]
 }
