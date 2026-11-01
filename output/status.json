@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-11-01T06:14:34Z",
+ "generated_at": "2026-11-01T13:33:21Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 3426,
- "alive": 674,
+ "candidates": 3376,
+ "alive": 629,
  "github_ok": 59,
- "final": 674,
+ "final": 629,
  "by_protocol": {
-  "ss": 171,
-  "trojan": 148,
-  "vless": 246,
-  "vmess": 49,
+  "trojan": 135,
   "http": 18,
-  "hysteria2": 39,
+  "ss": 164,
+  "hysteria2": 34,
+  "vless": 226,
+  "vmess": 48,
   "socks5": 2,
-  "anytls": 1
+  "anytls": 2
  },
  "top_github": [
   {
-   "name": "🇺🇸US-37.19.198.244-0165",
-   "delay": 107
+   "name": "🇺🇸US-66.163.112.13-0148",
+   "delay": 31
   },
   {
-   "name": "🇺🇸US-216.152.155.23-0091",
-   "delay": 110
+   "name": "trojan-1929965329",
+   "delay": 36
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0166",
-   "delay": 113
+   "name": "🇺🇸US-66.163.112.76-3069",
+   "delay": 38
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0168",
-   "delay": 116
+   "name": "🇺🇸US-66.163.112.121-0149",
+   "delay": 38
   },
   {
-   "name": "vless-1854337870",
-   "delay": 135
+   "name": "trojan-1930077586",
+   "delay": 39
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0210",
-   "delay": 139
+   "name": "trojan-1935007690",
+   "delay": 40
   },
   {
-   "name": "美国 021",
-   "delay": 161
+   "name": "trojan-1935612269",
+   "delay": 52
   },
   {
-   "name": "🇺🇸US-216.152.155.54-0110",
-   "delay": 162
+   "name": "US - zhuhai.uk 05",
+   "delay": 74
   },
   {
-   "name": "trojan-1929965352",
-   "delay": 164
+   "name": "🇺🇸US-173.244.56.9-0092",
+   "delay": 76
+  },
+  {
+   "name": "🇺🇸US-173.244.56.6-0126",
+   "delay": 78
+  },
+  {
+   "name": "hysteria2-1828372350",
+   "delay": 85
+  },
+  {
+   "name": "hysteria2-1827187993",
+   "delay": 85
+  },
+  {
+   "name": "🇺🇸 美国 | USA 10",
+   "delay": 94
   },
   {
    "name": "美国 059",
-   "delay": 164
+   "delay": 98
   },
   {
-   "name": "vmess-1853361191",
-   "delay": 165
+   "name": "🇸🇬[www.v2nodes.com] vless-SG-1... #8",
+   "delay": 106
   },
   {
-   "name": "trojan-1947400782",
-   "delay": 166
-  },
-  {
-   "name": "trojan-1943754366",
-   "delay": 166
+   "name": "shadowsocks-1827963043",
+   "delay": 111
   },
   {
    "name": "美国 002",
-   "delay": 172
+   "delay": 113
   },
   {
-   "name": "vmess-1871753999",
-   "delay": 175
+   "name": "vless-1941514489",
+   "delay": 114
   },
   {
-   "name": "vmess-1853465189",
-   "delay": 175
+   "name": "美国 007",
+   "delay": 115
   },
   {
-   "name": "trojan-1939845057",
-   "delay": 176
-  },
-  {
-   "name": "vmess-1853332266",
-   "delay": 177
-  },
-  {
-   "name": "美国 335",
-   "delay": 179
-  },
-  {
-   "name": "🇺🇸US-216.152.155.176-0105",
-   "delay": 183
+   "name": "美国 005",
+   "delay": 121
   }
  ]
 }
