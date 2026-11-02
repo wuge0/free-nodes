@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-11-02T11:17:46Z",
+ "generated_at": "2026-11-02T21:45:23Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2805,
- "alive": 576,
+ "candidates": 2799,
+ "alive": 577,
  "github_ok": 60,
- "final": 576,
+ "final": 577,
  "by_protocol": {
-  "ss": 167,
-  "hysteria2": 48,
-  "vless": 186,
-  "vmess": 52,
-  "trojan": 78,
-  "http": 24,
-  "anytls": 17,
-  "socks5": 4
+  "hysteria2": 44,
+  "trojan": 81,
+  "vless": 207,
+  "vmess": 56,
+  "http": 21,
+  "ss": 162,
+  "socks5": 4,
+  "anytls": 2
  },
  "top_github": [
   {
-   "name": "🇺🇸US-185.230.230.18-0093",
-   "delay": 16
+   "name": "hysteria2-1827187993",
+   "delay": 55
   },
   {
-   "name": "hysteria2-1853331471",
-   "delay": 18
+   "name": "hysteria2-1828372350",
+   "delay": 56
   },
   {
-   "name": "🇸🇬[www.v2nodes.com] vless-SG",
-   "delay": 39
+   "name": "美国 027",
+   "delay": 75
   },
   {
-   "name": "美国 011",
-   "delay": 40
+   "name": "vless-1939221436",
+   "delay": 76
   },
   {
-   "name": "美国 026",
-   "delay": 42
+   "name": "vmess-1941981687",
+   "delay": 78
   },
   {
-   "name": "🇳🇱 荷兰 | NLD #1",
-   "delay": 44
+   "name": "US - zhuhai.uk 05",
+   "delay": 84
   },
   {
-   "name": "🇺🇸 美国 | USA #5",
-   "delay": 44
+   "name": "trojan-1943481639",
+   "delay": 86
   },
   {
-   "name": "🇺🇸US-193.151.163.18-0096",
-   "delay": 45
+   "name": "vmess-1827158757",
+   "delay": 86
   },
   {
-   "name": "🇺🇸US-37.19.198.236-0208",
-   "delay": 46
+   "name": "hysteria2-1854030876",
+   "delay": 88
   },
   {
-   "name": "🇺🇸US-37.19.198.243-0211",
-   "delay": 48
+   "name": "vmess-1853332267",
+   "delay": 88
   },
   {
-   "name": "🇺🇸US-37.19.198.244-0214",
-   "delay": 48
+   "name": "vmess-1853348260",
+   "delay": 88
   },
   {
-   "name": "🇺🇸US-198.98.53.130-0239",
-   "delay": 48
+   "name": "vless-1853340740",
+   "delay": 94
   },
   {
-   "name": "🇺🇸US-37.19.198.160-0209",
-   "delay": 53
+   "name": "vmess-1853465786",
+   "delay": 99
   },
   {
-   "name": "🇸🇬 新加坡 | SGP #1",
-   "delay": 59
+   "name": "trojan-1930077586",
+   "delay": 99
   },
   {
-   "name": "vless-1853350171",
-   "delay": 63
+   "name": "🇸🇬[www.v2nodes.com] vless-SG-1... #10",
+   "delay": 100
   },
   {
-   "name": "vless-1894628648",
-   "delay": 66
+   "name": "trojan-1924748552",
+   "delay": 102
   },
   {
-   "name": "vmess-1827158796",
-   "delay": 67
+   "name": "shadowsocks-1827969041",
+   "delay": 104
   },
   {
-   "name": "vless-1835060901",
-   "delay": 71
+   "name": "🇺🇸 美国 | USA #16",
+   "delay": 104
   },
   {
-   "name": "vless-1883549617",
-   "delay": 72
+   "name": "🇺🇸US-173.244.56.9-0104",
+   "delay": 104
   },
   {
-   "name": "vless-1853488215",
-   "delay": 72
+   "name": "🇺🇸US-173.244.56.6-0103",
+   "delay": 104
   }
  ]
 }
