@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-11-02T21:45:23Z",
+ "generated_at": "2026-11-03T06:55:05Z",
  "sources_ok": 11,
  "sources_fail": 0,
- "candidates": 2799,
- "alive": 577,
+ "candidates": 2830,
+ "alive": 590,
  "github_ok": 60,
- "final": 577,
+ "final": 590,
  "by_protocol": {
-  "hysteria2": 44,
-  "trojan": 81,
-  "vless": 207,
-  "vmess": 56,
-  "http": 21,
-  "ss": 162,
-  "socks5": 4,
+  "ss": 165,
+  "vmess": 50,
+  "vless": 198,
+  "http": 15,
+  "hysteria2": 46,
+  "trojan": 109,
+  "socks5": 5,
   "anytls": 2
  },
  "top_github": [
   {
-   "name": "hysteria2-1827187993",
+   "name": "🇺🇸US-185.230.230.18-0145",
+   "delay": 28
+  },
+  {
+   "name": "vmess-1837386182",
+   "delay": 31
+  },
+  {
+   "name": "vmess-1828339141",
+   "delay": 38
+  },
+  {
+   "name": "vmess-1947242998",
+   "delay": 41
+  },
+  {
+   "name": "vmess-1837386222",
+   "delay": 44
+  },
+  {
+   "name": "🇸🇬[www.v2nodes.com] vless-SG-9...",
+   "delay": 54
+  },
+  {
+   "name": "US - zhuhai.uk",
    "delay": 55
   },
   {
-   "name": "hysteria2-1828372350",
+   "name": "美国 029",
    "delay": 56
   },
   {
-   "name": "美国 027",
-   "delay": 75
+   "name": "美国 001",
+   "delay": 56
   },
   {
-   "name": "vless-1939221436",
-   "delay": 76
+   "name": "美国 004",
+   "delay": 56
   },
   {
-   "name": "vmess-1941981687",
-   "delay": 78
+   "name": "🇺🇸US-193.151.163.18-0138",
+   "delay": 57
   },
   {
-   "name": "US - zhuhai.uk 05",
-   "delay": 84
+   "name": "美国 030",
+   "delay": 59
   },
   {
-   "name": "trojan-1943481639",
-   "delay": 86
+   "name": "🇸🇬[www.v2nodes.com] vless-SG #1",
+   "delay": 59
   },
   {
-   "name": "vmess-1827158757",
-   "delay": 86
+   "name": "🇺🇸US-37.19.198.236-0144",
+   "delay": 61
   },
   {
-   "name": "hysteria2-1854030876",
-   "delay": 88
+   "name": "🏳[www.v2nodes.com] vless- #3",
+   "delay": 62
   },
   {
-   "name": "vmess-1853332267",
-   "delay": 88
+   "name": "🇺🇸US-37.19.198.244-0135",
+   "delay": 63
   },
   {
-   "name": "vmess-1853348260",
-   "delay": 88
+   "name": "🇺🇸US-37.19.198.160-0136",
+   "delay": 64
   },
   {
-   "name": "vless-1853340740",
-   "delay": 94
+   "name": "🇺🇸US-198.98.53.130-0299",
+   "delay": 66
   },
   {
-   "name": "vmess-1853465786",
-   "delay": 99
+   "name": "🇸🇬[www.v2nodes.com] vless-SG",
+   "delay": 70
   },
   {
-   "name": "trojan-1930077586",
-   "delay": 99
-  },
-  {
-   "name": "🇸🇬[www.v2nodes.com] vless-SG-1... #10",
-   "delay": 100
-  },
-  {
-   "name": "trojan-1924748552",
-   "delay": 102
-  },
-  {
-   "name": "shadowsocks-1827969041",
-   "delay": 104
-  },
-  {
-   "name": "🇺🇸 美国 | USA #16",
-   "delay": 104
-  },
-  {
-   "name": "🇺🇸US-173.244.56.9-0104",
-   "delay": 104
-  },
-  {
-   "name": "🇺🇸US-173.244.56.6-0103",
-   "delay": 104
+   "name": "巴西 004",
+   "delay": 73
   }
  ]
 }
